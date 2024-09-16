@@ -231,5 +231,5 @@ graph TD
     Agent -->|Uses| VLMSearch[vlm_rulebook_search.py]
     Agent -->|Uses| CardMechanics[card_mechanics.py]
     Search -->|Queries| DB[(SQLite Database)]
-    VLMSearch -->|Searches| Rulebook[Rulebook Data
+    VLMSearch -->|Searches| Rulebook[Rulebook Data]
 ```
