@@ -1,0 +1,15 @@
+{
+  "id": 7267,
+  "type": "monster",
+  "name": "Cloudian - Nube Oveja",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta es destruida en batalla y mandada al Cementerio: Invoca de Modo Especial 2 \"Ficha Cloudian\" (Hada/AGUA/Nivel 1/ATK 0/DEF 0) en Posición de Defensa. Estas Fichas no puede ser Sacrificadas para una Invocación por Sacrificio, excepto para monstruos \"Cloudian\".",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

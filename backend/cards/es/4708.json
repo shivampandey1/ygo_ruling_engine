@@ -1,0 +1,15 @@
+{
+  "id": 4708,
+  "type": "monster",
+  "name": "Hamburguesa Hambrienta",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes Invocar esta carta por Ritual con \"Receta de Hamburguesa\".",
+  "level": 6,
+  "atk": 2000,
+  "def": 1850,
+  "properties": [
+    "Guerrero",
+    "Ritual"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8248,
+  "type": "monster",
+  "name": "레알 제넥스 크러셔",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "①: 이 카드를 일반 소환했을 때에 발동할 수 있다. 덱에서 레벨 4 의 \"레알 제넥스\" 몬스터 1장을 패에 넣는다.",
+  "level": 2,
+  "atk": 800,
+  "def": 800,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

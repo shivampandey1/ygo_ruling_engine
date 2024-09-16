@@ -1,0 +1,15 @@
+{
+  "id": 10156,
+  "type": "monster",
+  "name": "Puddingcess Magidulce",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Gana 800 ATK/DEF mientras no tengas monstruos en tu Cementerio. Si esta carta en tu posesión es destruida por una carta del adversario y mandada a tu Cementerio: baraja esta carta al Deck. Después del cálculo de daño, si esta carta batalla con un monstruo del adversario: puedes seleccionar 1 carta que controle tu adversario; destruye ese objetivo.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

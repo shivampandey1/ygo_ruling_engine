@@ -1,0 +1,8 @@
+{
+  "id": 6762,
+  "type": "spell",
+  "name": "Espíritu del Destino",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Invoca de Modo Especial, desde tu mano, 1 monstruo \"HÉROE del Destino\" de Nivel 4 o menor. No debes controlar monstruos \"HÉROE del Destino\" para activar y resolver este efecto."
+}

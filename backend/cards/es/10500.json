@@ -1,0 +1,15 @@
+{
+  "id": 10500,
+  "type": "monster",
+  "name": "Boxeador Indómito Ambidiestro",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo \"Boxeador Indómito\" en tu Cementerio; Invócalo de Modo Especial. No puedes Invocar monstruos de Modo Especial durante el turno en el que activas este efecto, excepto monstruos \"Boxeador Indómito\".",
+  "level": 4,
+  "atk": 1500,
+  "def": 1400,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

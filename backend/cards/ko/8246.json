@@ -1,0 +1,15 @@
+{
+  "id": 8246,
+  "type": "monster",
+  "name": "레알 제넥스 터보",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "①: 이 카드를 일반 소환했을 때에 발동할 수 있다. 덱에서 레벨 1 의 \"제넥스\" 몬스터 1장을 패에 넣는다.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1300,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

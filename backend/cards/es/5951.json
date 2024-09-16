@@ -1,0 +1,15 @@
+{
+  "id": 5951,
+  "type": "monster",
+  "name": "El Agente del Juicio - Saturno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Mientras tengas más LP que tu adversario: puedes Sacrificar esta carta; inflige daño a tu adversario igual a la diferencia. Debes controlar \"El Santuario en el Cielo\" para activar y resolver este efecto. No puedes realizar tu Battle Phase en el turno en el que activas este efecto.",
+  "level": 6,
+  "atk": 2400,
+  "def": 0,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

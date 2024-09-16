@@ -1,0 +1,15 @@
+{
+  "id": 8719,
+  "type": "monster",
+  "name": "Angusticlavii Dragunité",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte attaque un monstre en Position de Défense tant qu'elle est équipée avec un monstre \"Dragunité\" Dragon, infligez des dommages de combat perçants.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Bête Ailée",
+    "Effet"
+  ]
+}

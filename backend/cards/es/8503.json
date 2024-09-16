@@ -1,0 +1,8 @@
+{
+  "id": 8503,
+  "type": "trap",
+  "name": "Huevo de Araña",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando tu adversario declara un ataque directo, mientras tienes 3 o más monstruos Insecto en tu Cementerio: niega el ataque y, si lo haces, Invoca de Modo Especial 3 \"Ficha Araña\" (Insecto/TIERRA/Nivel 1/ATK 100/DEF 100), en Posición de Ataque."
+}

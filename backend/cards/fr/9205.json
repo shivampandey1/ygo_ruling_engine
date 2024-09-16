@@ -1,0 +1,15 @@
+{
+  "id": 9205,
+  "type": "monster",
+  "name": "Destructeur D.D.",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsque cette carte sur le Terrain est bannie : vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; détruisez la cible.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

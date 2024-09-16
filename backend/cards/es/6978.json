@@ -1,0 +1,15 @@
+{
+  "id": 6978,
+  "type": "monster",
+  "name": "Planta Títere",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes descartar esta carta al Cementerio, y después seleccionar 1 monstruo Guerrero o Lanzador de Conjuros que controle tu adversario; toma el control de ese objetivo hasta la End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

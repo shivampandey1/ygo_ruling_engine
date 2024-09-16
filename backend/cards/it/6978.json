@@ -1,0 +1,15 @@
+{
+  "id": 6978,
+  "type": "monster",
+  "name": "Pianta Burattinaia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Puoi scartare questa carta al Cimitero, poi scegliere come bersaglio 1 mostro Guerriero o Incantatore controllato dal tuo avversario; prendi il controllo di quel bersaglio fino alla End Phase.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

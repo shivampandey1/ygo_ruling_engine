@@ -1,0 +1,8 @@
+{
+  "id": 9931,
+  "type": "spell",
+  "name": "Evo-Fuerza",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Sacrifica 1 monstruo \"Evolutil\"; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Evolusaurio\". (Esto se trata como una Invocación Especial por efecto de un monstruo \"Evolutil\")."
+}

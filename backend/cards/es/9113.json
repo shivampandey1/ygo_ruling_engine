@@ -1,0 +1,15 @@
+{
+  "id": 9113,
+  "type": "monster",
+  "name": "Monje Anarquista Ranshin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta es mandada de tu Campo a tu Cementerio por una carta del adversario: selecciona 1 monstruo en el Cementerio de tu adversario; destierra ese objetivo.",
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

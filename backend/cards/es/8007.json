@@ -1,0 +1,15 @@
+{
+  "id": 8007,
+  "type": "monster",
+  "name": "Dragón Rojo Archidemonio/Modo de Ataque",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial con \"Activar Modo de Ataque\". Después del cálculo de daño, si esta carta atacó: destruye todos los demás monstruos en el Campo. Cuando esta carta en el Campo es destruida: puedes seleccionar 1 \"Dragón Rojo Archidemonio\" en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "level": 10,
+  "atk": 3500,
+  "def": 2500,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

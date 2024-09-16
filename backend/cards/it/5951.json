@@ -1,0 +1,15 @@
+{
+  "id": 5951,
+  "type": "monster",
+  "name": "L'Agente del Giudizio - Saturno",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Mentre i tuoi LP sono superiori a quelli del tuo avversario: puoi offrire come Tributo questa carta; infliggi al tuo avversario danno pari alla differenza. Devi controllare \"Il Santuario nel Cielo\" per attivare e risolvere questo effetto. Non puoi effettuare la tua Battle Phase nel turno in cui attivi questo effetto.",
+  "level": 6,
+  "atk": 2400,
+  "def": 0,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

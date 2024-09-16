@@ -1,0 +1,10 @@
+{
+  "id": 4934,
+  "type": "spell",
+  "name": "Distruzione Infuocata",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Tutti i mostri FUOCO guadagnano 500 ATK e perdono 400 DEF.",
+  "englishProperty": "field",
+  "localizedProperty": "Terreno"
+}

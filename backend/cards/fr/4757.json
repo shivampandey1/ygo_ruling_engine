@@ -1,0 +1,15 @@
+{
+  "id": 4757,
+  "type": "monster",
+  "name": "Gear Golem, La Forteresse Mobile",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant votre Main Phase 1 : vous pouvez payer 800 LP ; ce tour, cette carte peut attaquer directement votre adversaire.",
+  "level": 4,
+  "atk": 800,
+  "def": 2200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

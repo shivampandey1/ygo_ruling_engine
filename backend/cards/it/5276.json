@@ -1,0 +1,10 @@
+{
+  "id": 5276,
+  "type": "spell",
+  "name": "Cancello della Fusione",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Durante la Main Phase: il giocatore di turno può Evocare tramite Fusione 1 Mostro Fusione dal suo Extra Deck, bandendo i Materiali da Fusione menzionati su di esso dalla sua mano o Terreno.",
+  "englishProperty": "field",
+  "localizedProperty": "Terreno"
+}

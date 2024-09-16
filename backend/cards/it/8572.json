@@ -1,0 +1,16 @@
+{
+  "id": 8572,
+  "type": "monster",
+  "name": "Spirito Sacro della Barriera di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Non può essere Evocato Specialmente. Una volta per turno, durante la End Phase, se questa carta è stata Evocata Normalmente o scoperta in questo turno: fai ritornare questa carta nella mano. Se controlli un altro mostro \"Barriera di Ghiaccio\", l'effetto della End Phase di questa carta diventa invece \"Scegli come bersaglio 1 mostro controllato dal tuo avversario; fallo ritornare nella mano\".",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Zombie",
+    "Spirit",
+    "Effetto"
+  ]
+}

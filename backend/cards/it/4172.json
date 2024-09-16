@@ -1,0 +1,15 @@
+{
+  "id": 4172,
+  "type": "monster",
+  "name": "Burattinaio Misterioso",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se un altro mostro viene Evocato Normalmente o per Scoperta: guadagni 500 LP.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

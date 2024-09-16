@@ -1,0 +1,10 @@
+{
+  "id": 7016,
+  "type": "trap",
+  "name": "Fastidiar los Planes",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando es activado un efecto de monstruo que se active cuando un monstruo es Invocado de Modo Normal: niega la activación y, si lo haces, destruye ese monstruo.",
+  "englishProperty": "counter",
+  "localizedProperty": "Contraefecto"
+}

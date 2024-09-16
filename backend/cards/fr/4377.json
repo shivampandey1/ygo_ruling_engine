@@ -1,0 +1,15 @@
+{
+  "id": 4377,
+  "type": "monster",
+  "name": "Sanga du Tonnerre",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois, tant que cette carte est face recto sur le Terrain, durant le calcul des dommages du tour de votre adversaire, si elle est attaquée (Effet Rapide) : vous pouvez cibler le monstre attaquant ; durant le calcul des dommages uniquement, faites devenir 0 l'ATK de la cible.",
+  "level": 7,
+  "atk": 2600,
+  "def": 2200,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

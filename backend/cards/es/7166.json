@@ -1,0 +1,8 @@
+{
+  "id": 7166,
+  "type": "spell",
+  "name": "Lluvia de Serpientes",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Descarta 1 carta; manda al Cementerio 4 monstruos Reptil en tu Deck."
+}

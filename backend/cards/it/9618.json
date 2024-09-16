@@ -1,0 +1,15 @@
+{
+  "id": 9618,
+  "type": "monster",
+  "name": "Mago Gagaga",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi dichiarare un Livello tra 1 e 8; questa carta diventa di quel Livello fino alla fine di questo turno. Puoi controllare solo 1 \"Mago Gagaga\". Non può essere utilizzato come Materiale Synchro.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

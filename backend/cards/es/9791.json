@@ -1,0 +1,10 @@
+{
+  "id": 9791,
+  "type": "trap",
+  "name": "Wattcancelar",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando tu adversario fuera a Invocar uno o más monstruos de Modo Normal o Especial: descarta 1 monstruo \"Watt\"; niega la Invocación y, si lo haces, destruye ese o esos monstruos.",
+  "englishProperty": "counter",
+  "localizedProperty": "Contraefecto"
+}

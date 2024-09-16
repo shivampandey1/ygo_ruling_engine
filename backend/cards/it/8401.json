@@ -1,0 +1,15 @@
+{
+  "id": 8401,
+  "type": "monster",
+  "name": "Naturia Ortensia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Durante il tuo turno, se l'effetto di un mostro \"Naturia\" è stato attivato sul tuo Terreno, puoi Evocare Specialmente questa carta (dalla tua mano).",
+  "level": 5,
+  "atk": 1900,
+  "def": 2000,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5375,
+  "type": "monster",
+  "name": "Yata-Garasu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non Invocable Spécialement. Durant la End Phase du tour où cette carte a été Invoquée Normalement ou retournée face recto : renvoyez-la à la main. Si cette carte inflige des dommages de combat à votre adversaire : sautez la Draw Phase de son prochain tour.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Démon",
+    "Spirit",
+    "Effet"
+  ]
+}

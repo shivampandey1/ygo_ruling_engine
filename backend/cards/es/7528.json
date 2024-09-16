@@ -1,0 +1,15 @@
+{
+  "id": 7528,
+  "type": "monster",
+  "name": "Guerrero de la Ventisca",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta destruye un monstruo del adversario en batalla: mira la carta de la parte superior de su Deck y ponla en la parte superior o inferior del Deck.",
+  "level": 3,
+  "atk": 1400,
+  "def": 400,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

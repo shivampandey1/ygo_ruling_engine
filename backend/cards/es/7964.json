@@ -1,0 +1,15 @@
+{
+  "id": 7964,
+  "type": "monster",
+  "name": "Armadura de Trueno Aliada de la Justicia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial. Si tu monstruo \"Aliado/a de la Justicia\" ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "level": 8,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

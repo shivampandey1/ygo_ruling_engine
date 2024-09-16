@@ -1,0 +1,15 @@
+{
+  "id": 4126,
+  "type": "monster",
+  "name": "Clown de Rêve",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte en Position d'Attaque est changée en Position de Défense face recto : ciblez 1 monstre contrôlé par votre adversaire ; détruisez la cible.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

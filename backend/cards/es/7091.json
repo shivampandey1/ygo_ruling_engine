@@ -1,0 +1,15 @@
+{
+  "id": 7091,
+  "type": "monster",
+  "name": "El Avatar Malvado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Especial. Debe ser Invocado de Modo Normal/Colocado Sacrificando 3 monstruos. Si esta carta es Invocada de Modo Normal: tu adversario no puede activar Cartas Mágicas/de Trampa hasta el final de su 2do. turno después de la activación de este efecto. El ATK/DEF de esta carta son iguales al ATK más alto que haya en el Campo +100, excepto del \"El Avatar Malvado\".",
+  "level": 10,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

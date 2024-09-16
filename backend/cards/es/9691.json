@@ -1,0 +1,8 @@
+{
+  "id": 9691,
+  "type": "trap",
+  "name": "Aura Utópica",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Desacopla 1 material de un monstruo que controles; hasta el final de este turno, los Monstruos Xyz boca arriba que controles en este momento no pueden ser destruidos por efectos de cartas."
+}

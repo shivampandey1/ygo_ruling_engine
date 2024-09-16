@@ -1,0 +1,9 @@
+{
+  "id": 7570,
+  "type": "spell",
+  "name": "闇の誘惑",
+  "nameRuby": "やみのゆうわく",
+  "englishAttribute": "spell",
+  "localizedAttribute": "魔法",
+  "effectText": "①：自分は２枚ドローする。その後、手札に闇属性モンスターが存在する場合、その内の１体を選んで除外する。存在しない場合、自分の手札を全て墓地へ送る。"
+}

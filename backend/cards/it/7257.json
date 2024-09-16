@@ -1,0 +1,16 @@
+{
+  "id": 7257,
+  "type": "monster",
+  "name": "Ala Infernale EROE Malvagio",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "\"Avian EROE Elementale\" + \"Burstinatrix EROE Elementale\"\nDeve essere Evocato Specialmente con \"Fusione Oscura\". Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante. Se questa carta distrugge un mostro in battaglia e lo manda al Cimitero: infliggi al tuo avversario danno pari all'ATK o DEF originale (quello che è più alto) di quel mostro nel Cimitero.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1200,
+  "properties": [
+    "Demone",
+    "Fusione",
+    "Effetto"
+  ]
+}

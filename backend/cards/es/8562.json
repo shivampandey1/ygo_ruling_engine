@@ -1,0 +1,16 @@
+{
+  "id": 8562,
+  "type": "monster",
+  "name": "Dracounidad Jabalina",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta boca arriba es destruida mientras esté en la Zona de Monstruos, puedes equipársela a 1 monstruo \"Dracounidad\" Bestia Alada que controles, en lugar de mandarla al Cementerio.",
+  "level": 2,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Dragón",
+    "Cantante",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6486,
+  "type": "monster",
+  "name": "Bastione Distruttore EROE Elementale",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "\"Clayman EROE Elementale\" + \"Burstinatrix EROE Elementale\"\nDeve essere Evocato tramite Fusione. Questa carta può attaccare direttamente mentre è in Posizione di Difesa. Se lo fa, applica il suo ATK per il calcolo dei danni, e il suo ATK viene dimezzato solamente durante il calcolo dei danni.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Guerriero",
+    "Fusione",
+    "Effetto"
+  ]
+}

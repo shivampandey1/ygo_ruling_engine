@@ -1,0 +1,16 @@
+{
+  "id": 8951,
+  "type": "monster",
+  "name": "Goblin Frammento",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Non può essere distrutto in battaglia. Alla fine della Battle Phase, se questa carta scoperta in Posizione di Difesa viene scelta come bersaglio per un attacco: distruggi questa carta. Se questa carta viene distrutta dall'effetto di una carta \"Frammento\" e mandata al Cimitero: puoi scegliere come bersaglio 1 mostro \"Frammento\" nel tuo Cimitero, eccetto \"Goblin Frammento\"; aggiungi quel bersaglio alla tua mano.",
+  "level": 3,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Guerriero-Bestia",
+    "Tuner",
+    "Effetto"
+  ]
+}

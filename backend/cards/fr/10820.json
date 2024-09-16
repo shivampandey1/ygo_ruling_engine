@@ -1,0 +1,10 @@
+{
+  "id": 10820,
+  "type": "spell",
+  "name": "Encore Xyz",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Ciblez 1 Monstre Xyz face recto contrôlé par votre adversaire avec du Matériel ; détachez-lui tous les Matériels, et si vous le faites, renvoyez-le à l'Extra Deck, puis, s'il y a une Carte Monstre dans le Cimetière parmi ces Matériels détachés, Invoquez Spécialement autant de ces monstres que possible depuis le Cimetière sur le Terrain de votre adversaire en Position de Défense face recto. Leur Niveau est réduit de 1 sur le Terrain. Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cette carte.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Jeu-Rapide"
+}

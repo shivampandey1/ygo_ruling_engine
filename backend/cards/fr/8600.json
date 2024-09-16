@@ -1,0 +1,8 @@
+{
+  "id": 8600,
+  "type": "spell",
+  "name": "Résurrection de l'Esprit de la Terre Immortel",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Défaussez 1 carte, puis ciblez 1 monstre \"Esprit de la Terre Immortel\" et 1 Magie de Terrain dans votre Cimetière ; ajoutez les cibles à votre main."
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7533,
+  "type": "monster",
+  "name": "Dragnov Flamvell",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si esta carta es destruida en batalla y mandada al Cementerio: inflige 500 puntos de daño a tu adversario. Puedes desterrar esta carta en tu Cementerio y 1 monstruo de FUEGO boca arriba que controles; añade a tu mano 1 \"Dragnov Flamvell\" en tu Deck.",
+  "level": 2,
+  "atk": 1100,
+  "def": 200,
+  "properties": [
+    "Dragón",
+    "Efecto"
+  ]
+}

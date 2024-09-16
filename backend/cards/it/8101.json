@@ -1,0 +1,15 @@
+{
+  "id": 8101,
+  "type": "monster",
+  "name": "Naturia Artiglioragno",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Non può dichiarare un attacco a meno che il tuo avversario abbia attivato una carta o un effetto in questo turno.",
+  "level": 4,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

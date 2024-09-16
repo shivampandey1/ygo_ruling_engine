@@ -1,0 +1,16 @@
+{
+  "id": 9717,
+  "type": "monster",
+  "name": "Rey Fantasma Hydride",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si usas esta carta que controles como Material de Sincronía, puedes tratarla como un monstruo que no sea Cantante.",
+  "level": 3,
+  "atk": 1500,
+  "def": 300,
+  "properties": [
+    "Demonio",
+    "Cantante",
+    "Efecto"
+  ]
+}

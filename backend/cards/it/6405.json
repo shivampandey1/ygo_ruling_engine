@@ -1,0 +1,15 @@
+{
+  "id": 6405,
+  "type": "monster",
+  "name": "Il Malvagio Terrorizzatore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Specialmente. Deve essere Evocato Normalmente/Posizionato offrendo come Tributo 3 mostri. Gli ATK/DEF di tutti gli altri mostri sul Terreno sono dimezzati.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

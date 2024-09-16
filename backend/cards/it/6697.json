@@ -1,0 +1,16 @@
+{
+  "id": 6697,
+  "type": "monster",
+  "name": "Cane da Guardia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "SCOPRI: Il tuo avversario non può Evocare Specialmente per il resto di questo turno.",
+  "level": 3,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Bestia",
+    "Scoperta",
+    "Effetto"
+  ]
+}

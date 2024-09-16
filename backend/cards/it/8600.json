@@ -1,0 +1,8 @@
+{
+  "id": 8600,
+  "type": "spell",
+  "name": "Rinascita Immortale Terrestre",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Scarta 1 carta, poi scegli come bersaglio 1 mostro \"Immortale Terrestre\" e 1 Magia Terreno nel tuo Cimitero; aggiungi quei bersagli alla tua mano."
+}

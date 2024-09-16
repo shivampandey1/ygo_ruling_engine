@@ -1,0 +1,16 @@
+{
+  "id": 10071,
+  "type": "monster",
+  "name": "Señor Supremo Dragón Solar Hierático de Heliópolis",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "2 monstruos de Nivel 8\nUna vez por turno: puedes desacoplar 1 material de esta carta; Sacrifica cualquier número de monstruos en tu mano y/o Campo (mín. 1), y después destruye el mismo número de cartas en el Campo.",
+  "rank": 8,
+  "atk": 3000,
+  "def": 2400,
+  "properties": [
+    "Dragón",
+    "Xyz",
+    "Efecto"
+  ]
+}

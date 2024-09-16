@@ -1,0 +1,10 @@
+{
+  "id": 9715,
+  "type": "spell",
+  "name": "I Portali del Mondo Oscuro",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Tutti i mostri Demone guadagnano 300 ATK/DEF. Una volta per turno: puoi bandire 1 mostro Demone dal tuo Cimitero; scarta 1 mostro Demone, poi pesca 1 carta.",
+  "englishProperty": "field",
+  "localizedProperty": "Terreno"
+}

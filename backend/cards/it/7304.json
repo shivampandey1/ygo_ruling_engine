@@ -1,0 +1,10 @@
+{
+  "id": 7304,
+  "type": "spell",
+  "name": "Controllo della Nebbia",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Offri come Tributo 1 mostro \"Nubiano\" scoperto, poi scegli come bersaglio 1 mostro scoperto sul Terreno; metti 3 Segnalini Nebbia su quel bersaglio.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Rapida"
+}

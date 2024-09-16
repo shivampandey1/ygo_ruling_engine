@@ -1,0 +1,15 @@
+{
+  "id": 6073,
+  "type": "monster",
+  "name": "Das Ende von Anubis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "FINSTERNIS",
+  "effectText": "Solange diese Karte offen auf dem Spielfeld liegt, werden alle Karten und Effekte annulliert, die eine oder mehr Karten im Friedhof als Ziel wählen oder die im Friedhof aktiviert werden.",
+  "level": 6,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

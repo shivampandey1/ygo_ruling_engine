@@ -1,0 +1,10 @@
+{
+  "id": 10436,
+  "type": "trap",
+  "name": "Tribarivalità Xyz",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "I Mostri Xyz scoperti sul Terreno con 2 o più materiali non possono essere distrutti dagli effetti delle carte. Dopo il calcolo dei danni, se un tuo Mostro Xyz ha combattuto con un mostro dell'avversario mentre questa carta è già scoperta nella tua Zona Magie & Trappole: distruggi quel mostro dell'avversario. Quel Mostro Xyz deve avere 2 o più materiali attaccati per attivare e risolvere questo effetto.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

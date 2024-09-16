@@ -1,0 +1,15 @@
+{
+  "id": 8104,
+  "type": "monster",
+  "name": "제넥스 블래스트",
+  "englishAttribute": "wind",
+  "localizedAttribute": "바람",
+  "effectText": "①: 이 카드를 특수 소환했을 때에 발동할 수 있다. 덱에서 어둠 속성의 \"제넥스\" 몬스터 1장을 패에 넣는다.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "마법사족",
+    "효과"
+  ]
+}

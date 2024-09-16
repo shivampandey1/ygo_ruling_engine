@@ -1,0 +1,15 @@
+{
+  "id": 4275,
+  "type": "monster",
+  "name": "Versago el Destructor",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Esta carta puede ser usada como sustituto de 1 Material de Fusión cuyo nombre se mencione en la Carta de Monstruo de Fusión, pero el o los otros materiales deben ser los correctos.",
+  "level": 3,
+  "atk": 1100,
+  "def": 900,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

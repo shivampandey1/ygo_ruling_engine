@@ -1,0 +1,8 @@
+{
+  "id": 9138,
+  "type": "spell",
+  "name": "Regalo Engañoso",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Manda al Cementerio 1 Monstruo boca arriba que no sea de Efecto que controles; roba 2 cartas."
+}

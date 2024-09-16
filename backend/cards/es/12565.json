@@ -1,0 +1,15 @@
+{
+  "id": 12565,
+  "type": "monster",
+  "name": "Mago Silencioso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando 1 monstruoLanzador de Conjuros. Gana 500 ATK por cada carta en tu mano. Una vez por turno cuando una Carta Mágica es activada (Efecto Rápido): puedes negar la activación. Si esta carta es destruida en batalla, o si esta carta controlada por su dueño es destruida por el efecto de una carta del adversario: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo \"Mago Silencioso\", excepto \"Mago Silencioso\", ignorando sus condiciones de Invocación.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

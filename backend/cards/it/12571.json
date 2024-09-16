@@ -1,0 +1,8 @@
+{
+  "id": 12571,
+  "type": "spell",
+  "name": "Sepoltura Tributo",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Una volta durante questo turno, puoi Evocare tramite Tributo un mostro che richiede 2 Tributi bandendo invece 1 mostro da ogni Cimitero, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno."
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6779,
+  "type": "spell",
+  "name": "Héroe Falso",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Invoca de Modo Especial, desde tu mano, 1 monstruo \"HÉROE Elemental\", pero no puede atacar y además devuélvelo a la mano durante la End Phase."
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8945,
+  "type": "monster",
+  "name": "Topo de la Mina",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "La primera vez que esta carta fuera a ser destruida en batalla cada turno, no es destruida. Si esta carta es mandada al Cementerio para la Invocación por Sincronía de un monstruo Bestia: roba 1 carta. Si esta carta boca arriba que controlas deja el Campo por efecto de una carta de tu adversario, destiérrala.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

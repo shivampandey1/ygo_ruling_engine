@@ -1,0 +1,15 @@
+{
+  "id": 5973,
+  "type": "monster",
+  "name": "Re dei Goblin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Mentre controlli un altro mostro Demone, i mostri non possono attaccare questa carta. L'ATK/DEF di questa carta diventano il numero di altri mostri Demone sul Terreno x 1000.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

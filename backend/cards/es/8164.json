@@ -1,0 +1,15 @@
+{
+  "id": 8164,
+  "type": "monster",
+  "name": "Alanegra - Kalut la Sombra de la Luna",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante el Damage Step, cuando tu monstruo \"Alanegra\" batalle (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano; ese monstruo gana 1400 ATK hasta el final de este turno.",
+  "level": 3,
+  "atk": 1400,
+  "def": 1000,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

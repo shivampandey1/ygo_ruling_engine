@@ -1,0 +1,8 @@
+{
+  "id": 4687,
+  "type": "trap",
+  "name": "Casa de Cinta Adhesiva",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Si la DEF de un monstruo Invocado por tu adversario (excluyendo una Invocación Especial) es 500 puntos o menos, el monstruo es destruido."
+}

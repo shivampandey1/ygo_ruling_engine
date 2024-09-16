@@ -1,0 +1,15 @@
+{
+  "id": 6664,
+  "type": "monster",
+  "name": "Cíber Tutu",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si el ATK de cada monstruo que controla tu adversario es mayor que el de esta carta, esta carta puede atacar directamente.",
+  "level": 3,
+  "atk": 1000,
+  "def": 800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

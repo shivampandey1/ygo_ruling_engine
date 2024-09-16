@@ -1,0 +1,15 @@
+{
+  "id": 6502,
+  "type": "monster",
+  "name": "Broww, Chasseur du Monde Ténébreux",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est défaussée au Cimetière par un effet de carte : piochez 1 carte, ou, si elle a été défaussée depuis votre main à votre Cimetière par un effet de carte de l'adversaire, piochez 2 cartes à la place.",
+  "level": 3,
+  "atk": 1400,
+  "def": 800,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

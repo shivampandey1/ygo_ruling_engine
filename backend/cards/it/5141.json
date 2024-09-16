@@ -1,0 +1,15 @@
+{
+  "id": 5141,
+  "type": "monster",
+  "name": "Bambino Vampiro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Alla fine della Battle Phase, se questa carta ha distrutto un mostro in battaglia e l'ha mandato al Cimitero in questo turno: puoi Evocare Specialmente quel mostro sul tuo Terreno.",
+  "level": 3,
+  "atk": 700,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effetto"
+  ]
+}

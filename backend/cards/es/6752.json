@@ -1,0 +1,15 @@
+{
+  "id": 6752,
+  "type": "monster",
+  "name": "HÉROE del Destino - Blade Master",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Durante la Battle Phase de tu adversario (Efecto Rápido): puedes descartar esta carta; todos los monstruos \"HÉROE del Destino\" que controlas en este momento ganan 800 ATK hasta el final de este turno.",
+  "level": 3,
+  "atk": 300,
+  "def": 600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

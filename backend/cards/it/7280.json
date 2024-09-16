@@ -1,0 +1,15 @@
+{
+  "id": 7280,
+  "type": "monster",
+  "name": "Nubiano - Altus",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Non può essere distrutto in battaglia. Se questa carta è scoperta in Posizione di Difesa, distruggila. Se questa carta viene Evocata Normalmente: metti 1 Segnalino Nebbia su di essa per ogni mostro \"Nubiano\" sul Terreno. Puoi rimuovere 3 Segnalini Nebbia da ovunque sul Terreno; scarta 1 carta a caso dalla mano del tuo avversario.",
+  "level": 4,
+  "atk": 1300,
+  "def": 0,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

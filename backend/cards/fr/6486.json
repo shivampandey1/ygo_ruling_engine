@@ -1,0 +1,16 @@
+{
+  "id": 6486,
+  "type": "monster",
+  "name": "Artilleur du Rempart, HÉROS Élémentaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "\"Clayman, HÉROS Élémentaire\" + \"Burstinatrix, HÉROS Élémentaire\"\nUniquement Invocable par Fusion. Cette carte peut attaquer directement tant qu'elle est en Position de Défense. Si elle le fait, appliquez son ATK pour le calcul des dommages, et son ATK est divisée par deux durant le calcul des dommages uniquement.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Guerrier",
+    "Fusion",
+    "Effet"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6912,
+  "type": "trap",
+  "name": "Justi-Roto",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando el monstruo de tu adversario declara un ataque a tu Monstruo Normal: destruye todos los monstruos en el Campo, excepto los Monstruos Normales en Posición de Ataque."
+}

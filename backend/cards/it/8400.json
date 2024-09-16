@@ -1,0 +1,15 @@
+{
+  "id": 8400,
+  "type": "monster",
+  "name": "Naturia Fruttovolante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Tutti i mostri controllati dal tuo avversario perdono 300 ATK/DEF per ogni mostro \"Naturia\" che controlli. Una volta per turno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario con 0 DEF; prendi il controllo di quel bersaglio fino alla End Phase.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

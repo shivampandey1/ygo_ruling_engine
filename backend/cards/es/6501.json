@@ -1,0 +1,15 @@
+{
+  "id": 6501,
+  "type": "monster",
+  "name": "Beiige, Vanguardia del Mundo Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es descartada al Cementerio por efecto de una carta: Invoca esta carta de Modo Especial.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1300,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

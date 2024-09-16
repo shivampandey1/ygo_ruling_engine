@@ -1,0 +1,15 @@
+{
+  "id": 9747,
+  "type": "monster",
+  "name": "Castaña Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes mandar al Cementerio 1 monstruo \"Naturia\" en tu Deck. Una vez por turno: puedes seleccionar 2 monstruos \"Naturia\" en tu Cementerio; baraja ambos objetivos al Deck, y después roba 1 carta.",
+  "level": 3,
+  "atk": 1200,
+  "def": 700,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

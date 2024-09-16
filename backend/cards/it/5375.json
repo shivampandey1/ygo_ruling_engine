@@ -1,0 +1,16 @@
+{
+  "id": 5375,
+  "type": "monster",
+  "name": "Yata-Garasu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Non può essere Evocato Specialmente. Durante la End Phase del turno in cui questa carta è stata Evocata Normalmente o scoperta: falla ritornare nella mano. Se questa carta infligge danno da combattimento al tuo avversario: salta la Draw Phase del suo prossimo turno.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Demone",
+    "Spirit",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7945,
+  "type": "monster",
+  "name": "Roca Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por Cadena, cuando una Carta de Trampa es activada (Efecto Rápido): puedes mandar al Cementerio la carta de la parte superior de tu Deck; Invoca esta carta de Modo Especial desde tu mano.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

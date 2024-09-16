@@ -1,0 +1,16 @@
+{
+  "id": 8108,
+  "type": "monster",
+  "name": "Geomante della Barriera di Ghiaccio",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una volta mentre è scoperto sul Terreno: puoi scartare 1 carta e dichiarare 1 Attributo; i mostri con quell'Attributo dichiarato non possono scegliere questa carta come bersaglio per gli attacchi.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "Incantatore",
+    "Tuner",
+    "Effetto"
+  ]
+}

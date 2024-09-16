@@ -1,0 +1,15 @@
+{
+  "id": 5952,
+  "type": "monster",
+  "name": "L'Agente della Saggezza - Mercurio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, durante la tua Standby Phase, se controllavi questa carta scoperta nella tua Zona Mostri e non avevi carte nella tua mano alla fine dell'ultimo turno dell'avversario: pesca 1 carta.",
+  "level": 4,
+  "atk": 0,
+  "def": 1700,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

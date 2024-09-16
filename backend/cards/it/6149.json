@@ -1,0 +1,8 @@
+{
+  "id": 6149,
+  "type": "trap",
+  "name": "Mistica Barriera della Vita",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Scarta 1 carta; non subisci danno dalle carte del tuo avversario in questo turno, inoltre i tuoi mostri non possono essere distrutti in battaglia in questo turno."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8713,
+  "type": "monster",
+  "name": "El Fabuloso Peggulsus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando esta carta es descartada al Cementerio: puedes Invocarla de Modo Especial en Posición de Defensa boca abajo. Cuando esta carta es volteada boca arriba: puedes mostrar 1 monstruo \"Fabuloso/a\" en tu mano; manda al Cementerio 1 monstruo \"Fabuloso/a\" en tu Deck.",
+  "level": 1,
+  "atk": 100,
+  "def": 1600,
+  "properties": [
+    "Bestia",
+    "Cantante",
+    "Efecto"
+  ]
+}

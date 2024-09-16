@@ -1,0 +1,15 @@
+{
+  "id": 5973,
+  "type": "monster",
+  "name": "Rey Goblin",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Mientras controles otro monstruo Demonio, los monstruos no pueden atacar esta carta. El ATK/DEF de esta carta se convierten en el número de otros monstruos Demonio en el Campo x 1000.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

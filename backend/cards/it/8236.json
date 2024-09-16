@@ -1,0 +1,15 @@
+{
+  "id": 8236,
+  "type": "monster",
+  "name": "Il Favoloso Soulkius",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta è nel tuo Cimitero: puoi mandare 2 carte dalla tua mano al Cimitero, eccetto \"Il Favoloso Soulkius\"; Evoca Specialmente questa carta.",
+  "level": 6,
+  "atk": 2200,
+  "def": 2100,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

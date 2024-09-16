@@ -1,0 +1,15 @@
+{
+  "id": 6123,
+  "type": "monster",
+  "name": "Muka Muka Infuriato",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Guadagna 400 ATK/DEF per ogni carta nella tua mano.",
+  "level": 5,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Roccia",
+    "Effetto"
+  ]
+}

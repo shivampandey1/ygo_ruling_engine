@@ -1,0 +1,15 @@
+{
+  "id": 11535,
+  "type": "monster",
+  "name": "Infernoid Patrulea",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEUER",
+  "effectText": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Infernoid“-Monster von deiner Hand oder deinem Friedhof verbannst, solange die Summe der Stufen und Ränge aller Effektmonster, die du kontrollierst, 8 oder niedriger ist. Einmal pro Spielzug: Du kannst 1 Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie. Diese Karte kann nicht in dem Spielzug angreifen, in dem dieser Effekt aktiviert wurde. Einmal pro Spielzug des Gegners (Schnelleffekt): Du kannst 1 Monster als Tribut anbieten und dann 1 Karte im Friedhof deines Gegners wählen; verbanne sie.",
+  "level": 4,
+  "atk": 1800,
+  "def": 0,
+  "properties": [
+    "Unterweltler",
+    "Effekt"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9904,
+  "type": "monster",
+  "name": "Ninja Mascherato Ebisu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Una volta per turno, se controlli un mostro \"Ninja\" diverso da \"Ninja Mascherato Ebisu\": puoi attivare questo effetto; fai ritornare nella mano Magie/Trappole controllate dal tuo avversario, pari al numero di mostri \"Ninja\" che controlli, inoltre ognuno dei tuoi \"Goe Goe, il Ninja Valoroso\" può attaccare direttamente in questo turno.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1800,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5063,
+  "type": "monster",
+  "name": "Gelatina Rianimata",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi pagare 1000 LP; Evocala Specialmente in Posizione di Difesa durante la tua prossima Standby Phase.",
+  "level": 4,
+  "atk": 1500,
+  "def": 500,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

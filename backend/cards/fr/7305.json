@@ -1,0 +1,10 @@
+{
+  "id": 7305,
+  "type": "spell",
+  "name": "Bourrasque Nuagien",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Une fois par tour, durant votre Standby Phase : placez 1 Compteur Brume sur chaque monstre face recto sur le Terrain.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

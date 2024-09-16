@@ -1,0 +1,15 @@
+{
+  "id": 8107,
+  "type": "monster",
+  "name": "Pèlerin de la Barrière de Glace",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Non destructible au combat avec un monstre qui a min. 1900 ATK.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

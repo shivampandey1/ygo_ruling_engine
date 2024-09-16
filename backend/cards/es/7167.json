@@ -1,0 +1,10 @@
+{
+  "id": 7167,
+  "type": "trap",
+  "name": "Daño = Reptil",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Una vez por turno, cuando recibas daño de una batalla que involucre a un monstruo Reptil: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Reptil con ATK igual o menor al daño que recibiste.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

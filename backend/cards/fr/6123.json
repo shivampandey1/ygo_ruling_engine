@@ -1,0 +1,15 @@
+{
+  "id": 6123,
+  "type": "monster",
+  "name": "Muka Muka Enragé",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Gagne 400 ATK/DEF pour chaque carte dans votre main.",
+  "level": 5,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

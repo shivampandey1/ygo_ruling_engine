@@ -1,0 +1,15 @@
+{
+  "id": 9277,
+  "type": "monster",
+  "name": "Arcidemone Imperatrice",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se esattamente 1 mostro OSCURITÀ Demone scoperto sul Terreno, eccetto questa carta, sta per essere distrutto, puoi invece bandire 1 mostro OSCURITÀ Demone dal tuo Cimitero. Quando questa carta viene distrutta e mandata dal Terreno al Cimitero: puoi scegliere come bersaglio 1 mostro OSCURITÀ Demone di Livello 6 o superiore nel tuo Cimitero, eccetto \"Arcidemone Imperatrice\"; Evocalo Specialmente.",
+  "level": 8,
+  "atk": 2900,
+  "def": 2100,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

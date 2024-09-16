@@ -1,0 +1,15 @@
+{
+  "id": 5772,
+  "type": "monster",
+  "name": "Arcidemone Vile Pedone",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per turno, durante la tua Standby Phase, devi pagare 500 LP (questo non è opzionale), o questa carta viene distrutta. Quando si sta risolvendo l'effetto di una carta dell'avversario che sceglie come bersaglio questa carta, tira un dado a sei facce e annulla quell'effetto se tiri un 3 e, se lo fai, distruggi quella carta. I mostri del tuo avversario non possono attaccare nessun mostro \"Arcidemone\" che controlli, eccetto \"Arcidemone Vile Pedone\".",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

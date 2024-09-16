@@ -1,0 +1,8 @@
+{
+  "id": 7463,
+  "type": "trap",
+  "name": "Vitalité Arc-en-Ciel",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Défaussez 1 carte ; jusqu'à la fin de ce tour, chaque fois que vous allez recevoir des dommages, gagnez autant de LP à la place."
+}

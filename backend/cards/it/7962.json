@@ -1,0 +1,15 @@
+{
+  "id": 7962,
+  "type": "monster",
+  "name": "Ricercatore Alleato della Giustizia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi scartare 1 carta, poi scegliere come bersaglio 1 mostro coperto in Posizione di Difesa controllato dal tuo avversario; metti quel bersaglio scoperto in Posizione di Attacco. (Gli effetti dei mostri Scoperta non vengono attivati.)",
+  "level": 3,
+  "atk": 1400,
+  "def": 100,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

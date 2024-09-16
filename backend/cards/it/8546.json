@@ -1,0 +1,15 @@
+{
+  "id": 8546,
+  "type": "monster",
+  "name": "Genex Alleato Duradark",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Una volta per turno: puoi scegliere come bersaglio 1 mostro in Posizione di Attacco con lo stesso Attributo di questa carta controllato dal tuo avversario; distruggi quel bersaglio. Questa carta non può attaccare nel turno in cui questo effetto viene attivato.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

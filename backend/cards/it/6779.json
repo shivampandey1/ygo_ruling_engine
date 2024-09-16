@@ -1,0 +1,8 @@
+{
+  "id": 6779,
+  "type": "spell",
+  "name": "Eroe Fasullo",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Evoca Specialmente 1 mostro \"EROE Elementale\" dalla tua mano, ma esso non può attaccare, inoltre fallo ritornare nella mano durante la End Phase."
+}

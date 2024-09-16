@@ -1,0 +1,15 @@
+{
+  "id": 4275,
+  "type": "monster",
+  "name": "Versago, le Destructeur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Cette carte peut être utilisée comme substitut pour 1 Matériel Fusion dont le nom est mentionné sur la Carte Monstre Fusion, mais les autres Matériels doivent être corrects.",
+  "level": 3,
+  "atk": 1100,
+  "def": 900,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

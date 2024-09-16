@@ -1,0 +1,16 @@
+{
+  "id": 8703,
+  "type": "monster",
+  "name": "Origine de la Néo Cloche de Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si vous contrôlez un monstre \"Cloche de Feu\" (\"Origine de la Néo Cloche de Feu\" exclu) et que votre adversaire a max. 3 cartes dans son Cimetière, vous pouvez Invoquer Spécialement cette carte (depuis votre main).",
+  "level": 2,
+  "atk": 500,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

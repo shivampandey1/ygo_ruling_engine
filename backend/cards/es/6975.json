@@ -1,0 +1,15 @@
+{
+  "id": 6975,
+  "type": "monster",
+  "name": "Gren, Táctico del Mundo Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta es descartada al Cementerio por efecto de una carta: selecciona 1 Mágica/Trampa en el Campo; destrúyela.",
+  "level": 2,
+  "atk": 300,
+  "def": 500,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

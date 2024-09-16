@@ -1,0 +1,15 @@
+{
+  "id": 5772,
+  "type": "monster",
+  "name": "Archidemonio Peón Vil",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, durante tu Standby Phase, debes pagar 500 LP (esto no es opcional), o esta carta es destruida. Al resolver el efecto de una carta del adversario que seleccione esta carta, lanza un dado de seis caras y niega ese efecto si sale 3 y, si lo haces, destruye esa carta. Los monstruos de tu adversario no pueden atacar ningún monstruo \"Archidemonio\" que controles, excepto \"Archidemonio Peón Vil\".",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

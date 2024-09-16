@@ -1,0 +1,15 @@
+{
+  "id": 8407,
+  "type": "monster",
+  "name": "Omni-Arma Alleato della Giustizia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta distrugge un mostro LUCE in battaglia e lo manda al Cimitero: pesca 1 carta, poi, se hai pescato un mostro OSCURITÀ di Livello 4 o inferiore, puoi rivelare quella carta ed Evocarla Specialmente.",
+  "level": 5,
+  "atk": 2200,
+  "def": 800,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

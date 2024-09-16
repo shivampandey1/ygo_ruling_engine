@@ -1,0 +1,15 @@
+{
+  "id": 8715,
+  "type": "monster",
+  "name": "Dianaira Mythologique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer par Sacrifice cette carte en Position d'Attaque face recto en Sacrifiant 1 monstre \"Mythologique\". Une fois par tour, le premier effet de Carte Magie Normale de l'adversaire qui va se résoudre devient \"Votre adversaire défausse 1 carte\".",
+  "level": 8,
+  "atk": 2800,
+  "def": 100,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

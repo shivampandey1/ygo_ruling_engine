@@ -1,0 +1,15 @@
+{
+  "id": 9289,
+  "type": "monster",
+  "name": "Jupiter, Agent des Miracles",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour : vous pouvez bannir 1 monstre \"Agent\" depuis votre Cimetière, puis ciblez 1 monstre LUMIÈRE Elfe que vous contrôlez ; jusqu'à la fin de ce tour, la cible gagne 800 ATK. Une fois par tour : vous pouvez défausser 1 monstre Elfe, puis ciblez 1 de vos monstres LUMIÈRE Elfe bannis ; Invoquez-le Spécialement. \"Le Sanctuaire Céleste\" doit être sur le Terrain pour activer et résoudre cet effet.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

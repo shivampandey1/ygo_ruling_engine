@@ -1,0 +1,8 @@
+{
+  "id": 6582,
+  "type": "trap",
+  "name": "Condensador de Daño",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando recibes daño de batalla: descarta 1 carta; Invoca de Modo Especial, desde tu Deck y en Posición de Ataque, 1 monstruo con ATK igual o menor que el daño de batalla que recibiste."
+}

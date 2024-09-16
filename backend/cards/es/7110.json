@@ -1,0 +1,15 @@
+{
+  "id": 7110,
+  "type": "monster",
+  "name": "General Archidemonio",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Puedes descartar esta carta al Cementerio; añade a tu mano 1 \"Pandemonium\" en tu Deck. Si \"Pandemonium\" no está en el Campo, destruye esta carta.",
+  "level": 4,
+  "atk": 2100,
+  "def": 800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

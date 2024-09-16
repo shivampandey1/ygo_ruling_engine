@@ -1,0 +1,15 @@
+{
+  "id": 4126,
+  "type": "monster",
+  "name": "Payaso del Sueño",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta en Posición de Ataque es cambiada a Posición de Defensa boca arriba: selecciona 1 monstruo que controle tu adversario; destruye ese objetivo.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

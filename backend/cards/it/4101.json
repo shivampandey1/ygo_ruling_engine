@@ -1,0 +1,15 @@
+{
+  "id": 4101,
+  "type": "monster",
+  "name": "Clown Stupido",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta in Posizione di Difesa viene messa in Posizione di Attacco: scegli come bersaglio 1 mostro controllato dal tuo avversario; fai ritornare quel bersaglio nella mano.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1400,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

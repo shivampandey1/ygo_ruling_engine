@@ -1,0 +1,15 @@
+{
+  "id": 8721,
+  "type": "monster",
+  "name": "Mantis Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando tu adversario Invoca un monstruo de Modo Normal: puedes mandar al Cementerio 1 monstruo \"Naturia\" en tu mano; destruye ese monstruo Invocado.",
+  "level": 4,
+  "atk": 1700,
+  "def": 1500,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

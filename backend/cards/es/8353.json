@@ -1,0 +1,8 @@
+{
+  "id": 8353,
+  "type": "trap",
+  "name": "Sucesor en las Habilidades",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Selecciona 1 monstruo boca arriba que controles; éste gana 400 ATK hasta el final de este turno. Durante tu turno, excepto el turno en el que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo boca arriba que controles; ese objetivo gana 800 ATK hasta el final de este turno."
+}

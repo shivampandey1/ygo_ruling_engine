@@ -1,0 +1,15 @@
+{
+  "id": 9289,
+  "type": "monster",
+  "name": "L'Agente dei Miracoli - Giove",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno: puoi bandire 1 mostro \"L'Agente\" dal tuo Cimitero, poi scegliere come bersaglio 1 mostro LUCE Fata che controlli; quel bersaglio guadagna 800 ATK fino alla fine di questo turno. Una volta per turno: puoi scartare 1 mostro Fata, poi scegliere come bersaglio 1 dei tuoi mostri LUCE Fata banditi; Evocalo Specialmente. \"Il Santuario nel Cielo\" deve essere sul Terreno per attivare e risolvere questo effetto.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

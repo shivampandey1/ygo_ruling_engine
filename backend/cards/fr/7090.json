@@ -1,0 +1,10 @@
+{
+  "id": 7090,
+  "type": "trap",
+  "name": "Mur de Feu",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Lorsque votre adversaire déclare une attaque directe : vous pouvez bannir 1 monstre Pyro dans votre Cimetière ; annulez l'attaque. Une fois par tour, durant votre Standby Phase, payez 500 LP ou détruisez cette carte.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

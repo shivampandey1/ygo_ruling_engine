@@ -1,0 +1,15 @@
+{
+  "id": 7964,
+  "type": "monster",
+  "name": "Armatura di Tuono Alleato della Giustizia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Specialmente. Se un tuo mostro \"Alleato della Giustizia\" attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "level": 8,
+  "atk": 2700,
+  "def": 2200,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6645,
+  "type": "monster",
+  "name": "Homúnculo Dorado",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Gana 300 ATK/DEF por cada una de tus cartas desterradas.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

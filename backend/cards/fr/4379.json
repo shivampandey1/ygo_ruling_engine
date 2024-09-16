@@ -1,0 +1,15 @@
+{
+  "id": 4379,
+  "type": "monster",
+  "name": "Suijin",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois, tant que cette carte est face recto sur le Terrain, durant le calcul des dommages du tour de votre adversaire, si elle est attaquée (Effet Rapide) : vous pouvez cibler le monstre attaquant ; durant le calcul des dommages uniquement, faites devenir 0 l'ATK de la cible.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

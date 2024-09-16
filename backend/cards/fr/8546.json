@@ -1,0 +1,15 @@
+{
+  "id": 8546,
+  "type": "monster",
+  "name": "Duradark, Allié Genex",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre en Position d'Attaque contrôlé par votre adversaire du même Attribut que cette carte ; détruisez la cible. Cette carte ne peut pas attaquer le tour où cet effet est activé.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Machine",
+    "Effet"
+  ]
+}

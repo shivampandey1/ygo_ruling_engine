@@ -1,0 +1,15 @@
+{
+  "id": 4708,
+  "type": "monster",
+  "name": "Burger Affamé",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Vous pouvez Invoquer Rituellement cette carte avec \"Recette de Hamburger\".",
+  "level": 6,
+  "atk": 2000,
+  "def": 1850,
+  "properties": [
+    "Guerrier",
+    "Rituel"
+  ]
+}

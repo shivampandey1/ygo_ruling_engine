@@ -1,0 +1,8 @@
+{
+  "id": 10551,
+  "type": "trap",
+  "name": "Pérdida de Memoria",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando un efecto de un monstruo en Posición de Ataque que controle tu adversario es activado: niega ese efecto y, si lo haces, cambia ese monstruo a Posición de Defensa boca arriba."
+}

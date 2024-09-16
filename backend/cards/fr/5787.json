@@ -1,0 +1,8 @@
+{
+  "id": 5787,
+  "type": "spell",
+  "name": "Échec et Mat",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Sacrifiez 1 monstre \"Archdémon\", puis ciblez 1 \"Roi de la Terreur - Archdémon\" que vous contrôlez ; ce tour, il peut attaquer directement."
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6602,
+  "type": "monster",
+  "name": "Doom Dozer",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 2 monstruos Insecto en tu Cementerio. Si esta carta inflige daño de batalla a tu adversario: manda al Cementerio la carta de la parte superior de su Deck.",
+  "level": 8,
+  "atk": 2800,
+  "def": 2600,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

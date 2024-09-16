@@ -1,0 +1,15 @@
+{
+  "id": 9731,
+  "type": "monster",
+  "name": "Serpent Lumineux",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est envoyée depuis la main au Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière. Non utilisable comme Matériel Synchro.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

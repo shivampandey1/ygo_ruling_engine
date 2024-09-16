@@ -1,0 +1,15 @@
+{
+  "id": 5653,
+  "type": "monster",
+  "name": "Marioneta Mágica",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cada vez que una Carta Mágica es activada, pon 1 Contador Mágico en esta carta cuando esa Carta Mágica se resuelva. Gana 200 ATK por cada Contador Mágico en ella. Puedes retirar 2 Contadores Mágicos de esta carta, y después selecciona 1 monstruo en el Campo; destrúyelo.",
+  "level": 5,
+  "atk": 2000,
+  "def": 1000,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

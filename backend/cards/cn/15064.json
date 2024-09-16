@@ -1,0 +1,8 @@
+{
+  "id": 15064,
+  "type": "trap",
+  "name": "自掘空洞",
+  "englishAttribute": "trap",
+  "localizedAttribute": "陷阱",
+  "effectText": "①：对手发动手牌・墓地・除外状态的怪兽的效果时可以发动。将该效果无效，给予对手２０００伤害。"
+}

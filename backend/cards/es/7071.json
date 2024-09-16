@@ -1,0 +1,15 @@
+{
+  "id": 7071,
+  "type": "monster",
+  "name": "Bestia de Cristal Gato Amatista",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta puede atacar a tu adversario directamente, pero cuando use este efecto, cualquier daño de batalla que inflija a tu adversario se divide a la mitad. Si esta carta boca arriba es destruida en una Zona de Monstruos, puedes ponerla boca arriba en tu Zona de Magia y Trampas como una Mágica Continua en lugar de mandarla al Cementerio.",
+  "level": 3,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Bestia",
+    "Efecto"
+  ]
+}

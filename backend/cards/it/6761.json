@@ -1,0 +1,8 @@
+{
+  "id": 6761,
+  "type": "trap",
+  "name": "Catena del Destino",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Scegli come bersaglio 1 mostro \"EROE del Destino\" che controlli; equipaggia questa carta a quel bersaglio. Esso guadagna 500 ATK. Se esso distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero: infliggi 500 danni al tuo avversario."
+}

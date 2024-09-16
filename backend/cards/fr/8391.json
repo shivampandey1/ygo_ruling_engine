@@ -1,0 +1,16 @@
+{
+  "id": 8391,
+  "type": "monster",
+  "name": "Lance Sombre Dragunité",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Une fois par tour : vous pouvez Sacrifier 1 monstre \"Dragunité\" Dragon, puis ciblez 1 monstre Bête Ailée de max. Niveau 4 dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

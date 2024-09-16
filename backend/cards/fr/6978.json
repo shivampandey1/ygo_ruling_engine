@@ -1,0 +1,15 @@
+{
+  "id": 6978,
+  "type": "monster",
+  "name": "Plante Fantoche",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez défausser cette carte au Cimetière, puis ciblez 1 monstre Guerrier ou Magicien contrôlé par votre adversaire ; jusqu'à la End Phase, prenez le contrôle de la cible.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

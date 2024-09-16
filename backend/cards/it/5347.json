@@ -1,0 +1,10 @@
+{
+  "id": 5347,
+  "type": "trap",
+  "name": "Rabbia del Drago",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Se un tuo mostro Drago attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

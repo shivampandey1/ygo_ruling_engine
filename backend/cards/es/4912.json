@@ -1,0 +1,8 @@
+{
+  "id": 4912,
+  "type": "trap",
+  "name": "Colmillo de Serpiente",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Reduce en 500 puntos la DEF de 1 monstruo seleccionado durante el turno en el que esta carta es activada."
+}

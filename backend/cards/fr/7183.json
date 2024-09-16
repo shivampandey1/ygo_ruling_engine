@@ -1,0 +1,15 @@
+{
+  "id": 7183,
+  "type": "monster",
+  "name": "Vénominon, Roi des Serpents Venimeux",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Spécialement par l'effet d'un autre Monstre à Effet. Non affectée par \"Marais Venin\". Gagne 500 ATK pour chaque monstre Reptile dans votre Cimetière. Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez bannir 1 autre monstre Reptile depuis votre Cimetière ; Invoquez Spécialement cette carte.",
+  "level": 8,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Reptile",
+    "Effet"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6912,
+  "type": "trap",
+  "name": "Justi-Frattura",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Quando un mostro del tuo avversario dichiara un attacco su un tuo Mostro Normale: distruggi tutti i mostri sul Terreno, eccetto i Mostri Normali in Posizione di Attacco."
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8250,
+  "type": "monster",
+  "name": "빙결계의 결기대",
+  "englishAttribute": "water",
+  "localizedAttribute": "물",
+  "effectText": "①: 이 카드를 릴리스하고, 필드의 물 속성 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 물 속성 몬스터를 파괴하고, 덱에서 \"빙결계\" 몬스터 1장을 패에 넣는다.",
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "마법사족",
+    "효과"
+  ]
+}

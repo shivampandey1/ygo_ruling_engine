@@ -1,0 +1,15 @@
+{
+  "id": 6647,
+  "type": "monster",
+  "name": "Duo Hélios Megistus",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 1 \"Hélios, le Soleil Primordial\". L'ATK/DEF de cette carte deviennent le nombre de monstres bannis x 200. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite au combat et y a été envoyée ce tour : vous pouvez Invoquer Spécialement cette carte, et elle gagne 300 ATK/DEF.",
+  "level": 6,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

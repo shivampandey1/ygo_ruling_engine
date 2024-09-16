@@ -1,0 +1,8 @@
+{
+  "id": 7166,
+  "type": "spell",
+  "name": "Pioggia di Serpenti",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Scarta 1 carta; manda 4 mostri Rettile dal tuo Deck al Cimitero."
+}

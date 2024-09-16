@@ -1,0 +1,15 @@
+{
+  "id": 7957,
+  "type": "monster",
+  "name": "Exécuteur de la Vallée de Brume",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Si cette carte est Invoquée Normalement : renvoyez toutes les Magies et tous les Pièges face recto depuis le Terrain à la main.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1600,
+  "properties": [
+    "Tonnerre",
+    "Effet"
+  ]
+}

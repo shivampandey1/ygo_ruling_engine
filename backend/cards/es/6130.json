@@ -1,0 +1,8 @@
+{
+  "id": 6130,
+  "type": "spell",
+  "name": "Disparo de Martillo",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Destruye el monstruo en Posición de Ataque en el Campo con el ATK más alto (si hay empate, eliges tú)."
+}

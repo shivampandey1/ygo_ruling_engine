@@ -1,0 +1,15 @@
+{
+  "id": 9744,
+  "type": "monster",
+  "name": "Gattino a Molla",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta mentre è scoperto sul Terreno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; fai ritornare quel bersaglio nella mano.",
+  "level": 2,
+  "atk": 800,
+  "def": 500,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

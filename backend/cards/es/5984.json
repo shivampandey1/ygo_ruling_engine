@@ -1,0 +1,10 @@
+{
+  "id": 5984,
+  "type": "spell",
+  "name": "Talismán de Sellar Trampas",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Activa esta carta sólo si controlas \"Amo de los Sellos Meisei\". No se pueden activar Cartas de Trampa, ni sus efectos en el Campo. Niega todos los efectos de Trampas en el Campo. Si no controlas \"Amo de los Sellos Meisei\", destruye esta carta.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

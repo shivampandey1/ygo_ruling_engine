@@ -1,0 +1,16 @@
+{
+  "id": 7379,
+  "type": "monster",
+  "name": "Cecchino Infernale EROE Malvagio",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "\"Clayman EROE Elementale\" + \"Burstinatrix EROE Elementale\"\nDeve essere Evocato Specialmente con \"Fusione Oscura\". Non può essere distrutto dagli effetti delle Magie. Una volta per turno, durante la tua Standby Phase: infliggi 1000 danni al tuo avversario. Questa carta deve essere scoperta in Posizione di Difesa per attivare e risolvere questo effetto.",
+  "level": 6,
+  "atk": 2000,
+  "def": 2500,
+  "properties": [
+    "Demone",
+    "Fusione",
+    "Effetto"
+  ]
+}

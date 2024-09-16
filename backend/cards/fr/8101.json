@@ -1,0 +1,15 @@
+{
+  "id": 8101,
+  "type": "monster",
+  "name": "P'tit Croc l'Araignée Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Ne peut pas déclarer d'attaque sauf si votre adversaire a activé une carte ou un effet ce tour.",
+  "level": 4,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

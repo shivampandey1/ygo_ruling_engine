@@ -1,0 +1,15 @@
+{
+  "id": 8143,
+  "type": "monster",
+  "name": "Drago Totem",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Può essere considerato come 2 Tributi per l'Evocazione tramite Tributo di un mostro Drago. Una volta per turno, durante la tua Standby Phase, se questa carta è nel tuo Cimitero e tutti i mostri nel tuo Cimitero sono Drago: puoi Evocare Specialmente questa carta in Posizione di Attacco, ma bandiscila quando lascia il Terreno. Non devi controllare nessun mostro per attivare e risolvere questo effetto.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Drago",
+    "Effetto"
+  ]
+}

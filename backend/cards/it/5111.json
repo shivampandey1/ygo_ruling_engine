@@ -1,0 +1,10 @@
+{
+  "id": 5111,
+  "type": "trap",
+  "name": "Muro Tornado",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Attiva solo se \"Umi\" è sul Terreno. Mentre \"Umi\" è sul Terreno, non subisci danno da combattimento. Se \"Umi\" non è sul Terreno, distruggi questa carta.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

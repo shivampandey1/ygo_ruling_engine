@@ -1,0 +1,15 @@
+{
+  "id": 11037,
+  "type": "monster",
+  "name": "Pugile Indomito Grandi Bende",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "La prima volta che questa carta sta per essere distrutta in battaglia ogni turno, essa non viene distrutta. Una volta per turno: puoi scegliere come bersaglio 1 dei tuoi mostri \"Pugile Indomito\" che è bandito o nel tuo Cimitero, che ha un Livello; tutti i mostri \"Pugile Indomito\" che controlli attualmente diventano del Livello attuale di quel mostro.",
+  "level": 2,
+  "atk": 1100,
+  "def": 1400,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

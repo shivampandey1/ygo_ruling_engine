@@ -1,0 +1,15 @@
+{
+  "id": 8400,
+  "type": "monster",
+  "name": "Frutosca Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Todos los monstruos que controla tu adversario pierden 300 ATK/DEF por cada monstruo \"Naturia\" que controles. Una vez por turno: puedes seleccionar 1 monstruo con 0 DEF que controle tu adversario; hasta la End Phase, toma el control de ese objetivo.",
+  "level": 3,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

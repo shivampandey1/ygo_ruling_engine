@@ -1,0 +1,15 @@
+{
+  "id": 6039,
+  "type": "monster",
+  "name": "Cerbère de la Sépulture",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Les monstres détruits au combat sont mélangés dans le Deck au lieu d'aller au Cimetière.",
+  "level": 4,
+  "atk": 0,
+  "def": 2000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

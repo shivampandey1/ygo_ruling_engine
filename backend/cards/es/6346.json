@@ -1,0 +1,8 @@
+{
+  "id": 6346,
+  "type": "spell",
+  "name": "Don del Mártir",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Manda al Cementerio 1 monstruo que controles, y después selecciona 1 monstruo boca arriba que controles; hasta el final de este turno, éste gana ATK igual al ATK original del monstruo mandado."
+}

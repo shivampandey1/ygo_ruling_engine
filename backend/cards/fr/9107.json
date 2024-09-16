@@ -1,0 +1,16 @@
+{
+  "id": 9107,
+  "type": "monster",
+  "name": "Cerises Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est envoyée depuis votre Terrain à votre Cimetière par une carte de l'adversaire : vous pouvez Invoquer Spécialement max. 2 \"Cerises Naturia\" depuis votre Deck en Position de Défense face verso.",
+  "level": 1,
+  "atk": 200,
+  "def": 200,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

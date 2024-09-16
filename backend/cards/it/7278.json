@@ -1,0 +1,15 @@
+{
+  "id": 7278,
+  "type": "monster",
+  "name": "Nubiano - Nuvola Acida",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Non può essere distrutto in battaglia. Se questa carta è scoperta in Posizione di Difesa, distruggila. Se questa carta viene Evocata Normalmente: metti 1 Segnalino Nebbia su di essa per ogni mostro \"Nubiano\" sul Terreno. Puoi rimuovere 2 Segnalini Nebbia da questa carta, poi scegliere come bersaglio 1 Magia/Trappola sul Terreno; distruggi quel bersaglio.",
+  "level": 4,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

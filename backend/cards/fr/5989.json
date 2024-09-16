@@ -1,0 +1,10 @@
+{
+  "id": 5989,
+  "type": "trap",
+  "name": "Talisman de Neutralisation de la Magie",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Activez cette carte uniquement si vous contrôlez \"Meisei, Le Maître des Sceaux\". Les Cartes Magie, et leurs effets sur le Terrain, ne peuvent pas être activés. Annulez tous les effets de Magie sur le Terrain. Si vous ne contrôlez pas \"Meisei, Le Maître des Sceaux\", détruisez cette carte.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

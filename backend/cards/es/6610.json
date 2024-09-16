@@ -1,0 +1,15 @@
+{
+  "id": 6610,
+  "type": "monster",
+  "name": "Polilla de Arena",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si esta carta en Posición de Defensa boca abajo es destruida y mandada al Cementerio: Invócala de Modo Especial e intercambia su ATK/DEF originales.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

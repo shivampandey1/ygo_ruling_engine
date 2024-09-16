@@ -1,0 +1,15 @@
+{
+  "id": 6368,
+  "type": "monster",
+  "name": "Empereur De La Flamme Infernale",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Non Invocable Spécialement. Lorsque cette carte est Invoquée par Sacrifice : vous pouvez bannir max. 5 monstres FEU depuis votre Cimetière ; détruisez un nombre de Magies/Pièges sur le Terrain égal au nombre banni pour activer cet effet.",
+  "level": 9,
+  "atk": 2700,
+  "def": 1600,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

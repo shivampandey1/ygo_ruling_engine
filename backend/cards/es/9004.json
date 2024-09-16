@@ -1,0 +1,8 @@
+{
+  "id": 9004,
+  "type": "trap",
+  "name": "Peón de la Reina",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando un monstruo \"Amazoness\" que controlas destruye un monstruo del adversario en batalla y lo manda al Cementerio: Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Amazoness\" de Nivel 4 o menor."
+}

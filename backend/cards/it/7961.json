@@ -1,0 +1,15 @@
+{
+  "id": 7961,
+  "type": "monster",
+  "name": "Annullatore Alleato della Giustizia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta combatte con un mostro LUCE, dopo il calcolo dei danni: annulla gli effetti di quel mostro (compreso nel Cimitero).",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9731,
+  "type": "monster",
+  "name": "Serpenteluce",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene mandata dalla mano al Cimitero: puoi Evocare Specialmente questa carta dal tuo Cimitero. Non può essere utilizzato come Materiale Synchro.",
+  "level": 3,
+  "atk": 1200,
+  "def": 800,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

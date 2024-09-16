@@ -1,0 +1,15 @@
+{
+  "id": 5483,
+  "type": "monster",
+  "name": "Gernia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno, durante tu próxima Standby Phase después de que esta carta boca arriba que controles fuera destruida por el efecto de una carta del adversario y mandada a tu Cementerio: Invócala de Modo Especial desde tu Cementerio.",
+  "level": 4,
+  "atk": 1300,
+  "def": 1200,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

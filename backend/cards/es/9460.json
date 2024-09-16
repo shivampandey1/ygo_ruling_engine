@@ -1,0 +1,15 @@
+{
+  "id": 9460,
+  "type": "monster",
+  "name": "Alanegra - Kris la Madrugada",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si controlas un monstruo \"Alanegra\" que no sea \"Alanegra - Kris la Madrugada\", puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial \"Alanegra - Kris la Madrugada\" una vez por turno de esta forma. La primera vez que esta carta en el Campo fuera a ser destruida por un efecto de Mágica/Trampa cada turno, no es destruida.",
+  "level": 4,
+  "atk": 1900,
+  "def": 300,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

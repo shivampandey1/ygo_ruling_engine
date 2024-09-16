@@ -1,0 +1,15 @@
+{
+  "id": 6368,
+  "type": "monster",
+  "name": "Imperatore della Fiamma Infernale",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Non può essere Evocato Specialmente. Quando questa carta viene Evocata tramite Tributo: puoi bandire fino a 5 mostri FUOCO dal tuo Cimitero; distruggi Magie/Trappole sul Terreno pari al numero bandito per attivare questo effetto.",
+  "level": 9,
+  "atk": 2700,
+  "def": 1600,
+  "properties": [
+    "Pyro",
+    "Effetto"
+  ]
+}

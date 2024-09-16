@@ -1,0 +1,16 @@
+{
+  "id": 8704,
+  "type": "monster",
+  "name": "Porcospino Neo Flamvell",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Se questa carta viene distrutta in battaglia: scegli come bersaglio 1 carta nel Cimitero del tuo avversario; bandiscila. Se questa carta sul Terreno viene distrutta dall'effetto di una carta: scegli come bersaglio 1 mostro FUOCO con DEF 200 o inferiore nel tuo Cimitero, eccetto \"Porcospino Neo Flamvell\"; aggiungi quel bersaglio alla tua mano.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Tuner",
+    "Effetto"
+  ]
+}

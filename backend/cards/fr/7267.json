@@ -1,0 +1,15 @@
+{
+  "id": 7267,
+  "type": "monster",
+  "name": "Nuagien - Nuage de Mouton",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Si cette carte est détruite au combat et envoyée au Cimetière : Invoquez Spécialement 2 \"Jeton Nuagien\" (Elfe/EAU/Niveau 1/ATK 0/DEF 0) en Position de Défense. Ces Jetons ne peuvent pas être Sacrifiés pour une Invocation Sacrifice, sauf pour des monstres \"Nuagien\".",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

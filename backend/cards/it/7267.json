@@ -1,0 +1,15 @@
+{
+  "id": 7267,
+  "type": "monster",
+  "name": "Nubiano - Nuvola Pecorella",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se questa carta viene distrutta in battaglia e mandata al Cimitero: Evoca Specialmente 2 \"Segna-Nubiano\" (Fata/ACQUA/Livello 1/ATK 0/DEF 0) in Posizione di Difesa. Questi Segna-Mostri non possono essere offerti come Tributo per un'Evocazione tramite Tributo, eccetto che per mostri \"Nubiano\".",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

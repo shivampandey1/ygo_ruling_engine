@@ -1,0 +1,15 @@
+{
+  "id": 7405,
+  "type": "monster",
+  "name": "Fossile Dyna Pachycéphalosaure",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte est retournée face recto : détruisez tous les monstres Invoqués Spécialement sur le Terrain. Aucun joueur ne peut Invoquer Spécialement de monstres.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1300,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

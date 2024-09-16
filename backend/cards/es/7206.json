@@ -1,0 +1,16 @@
+{
+  "id": 7206,
+  "type": "monster",
+  "name": "Orbe Gravitacional",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "VOLTEO: Cambia las posiciones de batalla de todos los monstruos boca arriba que controle tu adversario.",
+  "level": 3,
+  "atk": 1100,
+  "def": 700,
+  "properties": [
+    "Demonio",
+    "Volteo",
+    "Efecto"
+  ]
+}

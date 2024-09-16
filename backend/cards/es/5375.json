@@ -1,0 +1,16 @@
+{
+  "id": 5375,
+  "type": "monster",
+  "name": "Yata-Garasu",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser Invocado de Modo Especial. Durante la End Phase del turno en el que esta carta fue Invocada de Modo Normal o volteada boca arriba: devuélvela a la mano. Si esta carta inflige daño de batalla a tu adversario: sáltate la Draw Phase de su próximo turno.",
+  "level": 2,
+  "atk": 200,
+  "def": 100,
+  "properties": [
+    "Demonio",
+    "Spirit",
+    "Efecto"
+  ]
+}

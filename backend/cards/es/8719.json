@@ -1,0 +1,15 @@
+{
+  "id": 8719,
+  "type": "monster",
+  "name": "Dracounidad Angusticlavii",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta ataca un monstruo en Posición de Defensa mientras esté equipada con un monstruo \"Dracounidad\" Dragón, inflige daño de batalla de penetración.",
+  "level": 5,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4115,
+  "type": "monster",
+  "name": "Diosa con el Tercer Ojo",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Esta carta puede ser usada como sustituto de 1 Material de Fusión cuyo nombre se mencione en la Carta de Monstruo de Fusión, pero el o los otros materiales deben ser correctos.",
+  "level": 4,
+  "atk": 1200,
+  "def": 1000,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

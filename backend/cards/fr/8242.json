@@ -1,0 +1,15 @@
+{
+  "id": 8242,
+  "type": "monster",
+  "name": "Libellule Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non destructible au combat avec un monstre qui a min. 2000 ATK. Gagne 200 ATK pour chaque monstre \"Naturia\" dans votre Cimetière.",
+  "level": 4,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

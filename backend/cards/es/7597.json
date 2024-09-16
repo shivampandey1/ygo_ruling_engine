@@ -1,0 +1,15 @@
+{
+  "id": 7597,
+  "type": "monster",
+  "name": "Celestia, Ángel Luminoso",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Cuando Invocas esta carta por Sacrificio Sacrificando un monstruo \"Luminoso/a\", puedes mandar al Cementerio las 4 cartas de la parte superior de tu Deck para destruir hasta 2 cartas que controle tu adversario.",
+  "level": 5,
+  "atk": 2300,
+  "def": 200,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

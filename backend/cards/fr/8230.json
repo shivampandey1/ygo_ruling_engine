@@ -1,0 +1,10 @@
+{
+  "id": 8230,
+  "type": "trap",
+  "name": "Cimetière des Créatures Millénaires",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Les monstres de min. Niveau 6 Invoqués Spécialement sur le Terrain ne peuvent pas déclarer d'attaque et aucun joueur ne peut activer leurs effets.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8107,
+  "type": "monster",
+  "name": "Peregrino de la Barrera de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser destruido en batalla con un monstruo que tenga 1900 ATK o más.",
+  "level": 4,
+  "atk": 1500,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

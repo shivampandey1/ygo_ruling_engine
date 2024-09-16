@@ -1,0 +1,16 @@
+{
+  "id": 9844,
+  "type": "monster",
+  "name": "Peintre de la Douleur",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Le nom de cette carte devient \"Zombie Épidémique\" tant qu'elle est sur le Terrain. Une fois par tour : vous pouvez cibler max. 2 monstres Zombie que vous contrôlez (cette carte exclue) ; ils deviennent Niveau 2 (jusqu'à la fin de ce tour), et s'ils le deviennent, ils ne peuvent pas être utilisés comme Matériel Synchro, sauf pour l'Invocation Synchro d'un monstre Zombie.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Zombie",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

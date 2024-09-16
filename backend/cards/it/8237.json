@@ -1,0 +1,16 @@
+{
+  "id": 8237,
+  "type": "monster",
+  "name": "Il Favoloso Miztoji",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi mandare questa carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 mostro non-Tuner \"Il Favoloso\" che controlli; quel mostro viene considerato come un Tuner mentre è scoperto sul Terreno.",
+  "level": 2,
+  "atk": 400,
+  "def": 200,
+  "properties": [
+    "Demone",
+    "Tuner",
+    "Effetto"
+  ]
+}

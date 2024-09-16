@@ -1,0 +1,15 @@
+{
+  "id": 7805,
+  "type": "monster",
+  "name": "Neos Uomo Saggio",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Non può essere Evocato Normalmente o Posizionato. Deve essere Evocato Specialmente (dalla tua mano) mandando 1 \"Neos EROE Elementale\" scoperto e 1 \"Yubel\" scoperto che controlli al Cimitero. Non può essere distrutto dagli effetti delle carte. Alla fine del Damage Step, se questa carta ha combattuto con un mostro dell'avversario: infliggi al tuo avversario danno pari all'ATK di quel mostro dell'avversario, inoltre tu guadagni LP pari al DEF di quel mostro dell'avversario.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

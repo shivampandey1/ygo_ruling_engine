@@ -1,0 +1,15 @@
+{
+  "id": 7601,
+  "type": "monster",
+  "name": "Crapaud de Permutation",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Vous pouvez Sacrifier 1 monstre ; Invoquez Spécialement 1 monstre \"Grenouille\" depuis votre Deck. Les monstres \"Grenouille\" ne peuvent pas être détruits au combat.",
+  "level": 1,
+  "atk": 100,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

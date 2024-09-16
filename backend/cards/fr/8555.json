@@ -1,0 +1,16 @@
+{
+  "id": 8555,
+  "type": "monster",
+  "name": "Catsith le Mythologique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Si cette carte est défaussée au Cimetière : ciblez 1 carte face recto sur le Terrain ; détruisez la cible.",
+  "level": 1,
+  "atk": 800,
+  "def": 600,
+  "properties": [
+    "Bête",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

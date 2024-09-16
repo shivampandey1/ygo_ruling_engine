@@ -1,0 +1,10 @@
+{
+  "id": 7013,
+  "type": "trap",
+  "name": "Derecho de Nacimiento",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Activa esta carta seleccionando 1 Monstruo Normal en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Ataque. Cuando esta carta deje el Campo, destruye ese monstruo. Cuando ese monstruo deje el Campo, destruye esta carta.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

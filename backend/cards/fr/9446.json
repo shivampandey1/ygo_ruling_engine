@@ -1,0 +1,15 @@
+{
+  "id": 9446,
+  "type": "monster",
+  "name": "Sorcière des Fleurs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte est Invoquée Normalement ou Spécialement : ciblez 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur votre Terrain, mais il ne peut pas attaquer directement votre adversaire, et il est détruit durant la End Phase de ce tour. Vous ne pouvez utiliser cet effet de \"Sorcière des Fleurs\" qu'une fois par tour.",
+  "level": 8,
+  "atk": 2900,
+  "def": 0,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

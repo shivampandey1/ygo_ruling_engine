@@ -1,0 +1,16 @@
+{
+  "id": 10694,
+  "type": "monster",
+  "name": "ギミック・パペット－シザー・アーム",
+  "nameRuby": "ギミック・パペット－シザー・アーム",
+  "englishAttribute": "dark",
+  "localizedAttribute": "闇属性",
+  "effectText": "①：このカードが召喚した時に発動できる。デッキから「ギミック・パペット」モンスター１体を墓地へ送る。",
+  "level": 4,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "機械族",
+    "効果"
+  ]
+}

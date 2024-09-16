@@ -1,0 +1,16 @@
+{
+  "id": 7959,
+  "type": "monster",
+  "name": "Bebé Flamvell",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Puedes mandar al Cementerio esta carta en tu mano, y después seleccionar 1 monstruo de FUEGO que controles; ese objetivo gana 400 ATK.",
+  "level": 1,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Piro",
+    "Cantante",
+    "Efecto"
+  ]
+}

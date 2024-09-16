@@ -1,0 +1,15 @@
+{
+  "id": 4771,
+  "type": "monster",
+  "name": "Pequeño Guardián Alado",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "(Esta carta no se trata como una carta \"Guardián\").\nUna vez por turno, durante tu End Phase: puedes cambiar la posición de batalla de esta carta.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5772,
+  "type": "monster",
+  "name": "Pion Ignoble - Archdémon",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Une fois par tour, durant votre Standby Phase, vous devez payer 500 LP (ceci est obligatoire), ou cette carte est détruite. Lors de la résolution d'un effet de carte de l'adversaire qui cible cette carte, lancez un dé à six faces et annulez l'effet si le résultat est 3, et si vous le faites, détruisez la carte. Les monstres de votre adversaire ne peuvent pas attaquer de monstres \"Archdémon\" que vous contrôlez (\"Pion Ignoble - Archdémon\" exclu).",
+  "level": 2,
+  "atk": 1200,
+  "def": 200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

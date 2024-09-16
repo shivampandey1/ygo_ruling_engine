@@ -1,0 +1,15 @@
+{
+  "id": 7951,
+  "type": "monster",
+  "name": "터빈 제넥스",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "①: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 \"제넥스\" 몬스터의 공격력은 400 올린다.",
+  "level": 4,
+  "atk": 1400,
+  "def": 1300,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

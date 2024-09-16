@@ -1,0 +1,15 @@
+{
+  "id": 7530,
+  "type": "monster",
+  "name": "Pájaro del Trueno del Valle Brumoso",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Si esta carta boca arriba en el Campo es devuelta a la mano: Invócala de Modo Especial, pero este turno ésta no puede atacar.",
+  "level": 3,
+  "atk": 1100,
+  "def": 700,
+  "properties": [
+    "Trueno",
+    "Efecto"
+  ]
+}

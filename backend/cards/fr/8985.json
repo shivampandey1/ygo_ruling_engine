@@ -1,0 +1,10 @@
+{
+  "id": 8985,
+  "type": "spell",
+  "name": "Combativité Amazonesse",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Si votre monstre \"Amazonesse\" attaque un monstre avec une ATK supérieure, le monstre attaquant gagne 1000 ATK durant le calcul des dommages uniquement.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

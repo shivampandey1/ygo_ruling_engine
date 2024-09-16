@@ -1,0 +1,10 @@
+{
+  "id": 8506,
+  "type": "trap",
+  "name": "Rugido del Inmortal Terrestre",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Una vez por turno, si un monstruo del adversario declara un ataque: selecciona el monstruo atacante; destruye ese objetivo y, si lo haces, inflige daño a tu adversario igual a la mitad del ATK del monstruo destruido. Debes controlar un monstruo \"Inmortal Terrestre\" con ATK mayor al ATK del monstruo atacante para activar y resolver este efecto.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

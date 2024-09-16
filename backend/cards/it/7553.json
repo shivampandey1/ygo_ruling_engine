@@ -1,0 +1,8 @@
+{
+  "id": 7553,
+  "type": "spell",
+  "name": "Ira di Neos",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Scegli come bersaglio 1 \"Neos EROE Elementale\" nella tua Zona Mostri; mischia quel \"Neos EROE Elementale\" nel Deck e, se lo fai, distruggi tutte le carte sul Terreno."
+}

@@ -1,0 +1,8 @@
+{
+  "id": 9530,
+  "type": "spell",
+  "name": "Contatto con l'Acquaspecchio",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Se controlli un mostro ACQUA: attiva 1 di questi effetti o, se controlli un Mostro Rituale ACQUA, puoi attivare entrambi questi effetti, in ordine;\n●Guarda tutte le carte Posizionate nella Zona Magie & Trappole del tuo avversario.\n●Guarda le prime 2 carte del Deck di qualsiasi giocatore, poi mettile in cima al Deck in qualsiasi ordine."
+}

@@ -1,0 +1,10 @@
+{
+  "id": 5111,
+  "type": "trap",
+  "name": "Mur Tornade",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Activez uniquement si \"Umi\" est sur le Terrain. Tant que \"Umi\" est sur le Terrain, vous ne recevez aucun dommage de combat. Si \"Umi\" n'est pas sur le Terrain, détruisez cette carte.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

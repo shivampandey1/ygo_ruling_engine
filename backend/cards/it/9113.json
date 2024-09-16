@@ -1,0 +1,15 @@
+{
+  "id": 9113,
+  "type": "monster",
+  "name": "Monaco Anarchico Ranshin",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta viene mandata dal tuo Terreno al tuo Cimitero da una carta dell'avversario: scegli come bersaglio 1 mostro nel Cimitero del tuo avversario; bandisci quel bersaglio.",
+  "level": 4,
+  "atk": 1800,
+  "def": 100,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

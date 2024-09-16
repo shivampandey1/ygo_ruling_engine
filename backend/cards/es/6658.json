@@ -1,0 +1,15 @@
+{
+  "id": 6658,
+  "type": "monster",
+  "name": "HÉROE del Destino - Doom Lord",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; destierra ese objetivo. No puedes declarar un ataque en el turno en el que activas este efecto. Debes controlar esta carta en Posición de Ataque boca arriba para activar y resolver este efecto. El monstruo desterrado vuelve al Campo del adversario durante tu 2da. Standby Phase después de la activación.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

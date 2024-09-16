@@ -1,0 +1,8 @@
+{
+  "id": 6278,
+  "type": "trap",
+  "name": "威吓之咆哮",
+  "englishAttribute": "trap",
+  "localizedAttribute": "陷阱",
+  "effectText": "①：此回合，对手不可攻击宣言。"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7370,
+  "type": "monster",
+  "name": "Reine des Archdémons Captive",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, durant votre Standby Phase, vous devez payer 1000 LP (ceci est obligatoire), ou cette carte est détruite. Une fois par tour, durant votre Standby Phase : ciblez 1 monstre Démon de max. Niveau 4 sur le Terrain ; jusqu'à la fin de ce tour, la cible gagne 1000 ATK. \"Pandémonium\" doit être sur le Terrain et cette carte doit être dans votre Cimetière pour activer et résoudre cet effet.",
+  "level": 8,
+  "atk": 2600,
+  "def": 1700,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

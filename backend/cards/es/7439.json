@@ -1,0 +1,16 @@
+{
+  "id": 7439,
+  "type": "monster",
+  "name": "Mosquito Magnético",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "VOLTEO: Destruye todos los monstruos Máquina en el Campo.",
+  "level": 3,
+  "atk": 300,
+  "def": 1000,
+  "properties": [
+    "Insecto",
+    "Volteo",
+    "Efecto"
+  ]
+}

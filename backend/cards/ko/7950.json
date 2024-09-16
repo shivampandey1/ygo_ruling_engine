@@ -1,0 +1,16 @@
+{
+  "id": 7950,
+  "type": "monster",
+  "name": "스페어 제넥스",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "①: 1턴에 1번, 자신 필드에 다른 \"제넥스\" 몬스터가 존재할 경우에 발동할 수 있다. 이 카드의 카드명은 엔드 페이즈까지 \"제넥스 컨트롤러\"로 취급한다.",
+  "level": 3,
+  "atk": 800,
+  "def": 1200,
+  "properties": [
+    "기계족",
+    "튜너",
+    "효과"
+  ]
+}

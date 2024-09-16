@@ -1,0 +1,15 @@
+{
+  "id": 7266,
+  "type": "monster",
+  "name": "Nuagien - Nimbusien",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Non destructible au combat. Si cette carte est en Position de Défense face recto, détruisez-la. Vous pouvez Sacrifier un nombre de votre choix de monstres EAU pour l'Invocation Sacrifice de cette carte. Si cette carte est Invoquée par Sacrifice : placez 1 Compteur Brume sur elle pour chaque monstre EAU que vous avez Sacrifié. Cette carte gagne 500 ATK pour chaque Compteur Brume sur le Terrain.",
+  "level": 5,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

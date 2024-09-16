@@ -1,0 +1,8 @@
+{
+  "id": 5443,
+  "type": "trap",
+  "name": "Statua del Malvagio",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Se questa carta Posizionata viene distrutta e mandata al Cimitero: Evoca Specialmente 1 \"Segna-Malefico\" (Demone/OSCURITÀ/Livello 4/ATK 1000/DEF 1000)."
+}

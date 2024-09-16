@@ -1,0 +1,10 @@
+{
+  "id": 6066,
+  "type": "trap",
+  "name": "Tattica Ondata-Umana",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Una volta per turno, durante la End Phase, se uno o più tuoi Mostri Normali di Livello 2 o inferiore sono stati distrutti in battaglia in questo turno: Evoca Specialmente Mostri Normali di Livello 2 o inferiore dal tuo Deck, pari al numero dei tuoi Mostri Normali di Livello 2 o inferiore distrutti in battaglia in questo turno.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

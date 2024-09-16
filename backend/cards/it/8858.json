@@ -1,0 +1,15 @@
+{
+  "id": 8858,
+  "type": "monster",
+  "name": "Koala Vampir",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta infligge danno da combattimento al tuo avversario combattendo con un mostro: guadagni LP pari al danno da combattimento inflitto.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Bestia",
+    "Effetto"
+  ]
+}

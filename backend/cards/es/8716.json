@@ -1,0 +1,16 @@
+{
+  "id": 8716,
+  "type": "monster",
+  "name": "Dracounidad Corsesca",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Cuando un monstruo equipado con esta carta destruye un monstruo del adversario en batalla: puedes añadir a tu mano 1 monstruo de Nivel 4 o menor en tu Deck con el mismo Tipo y Atributo que los del monstruo al que esta carta está equipada.",
+  "level": 1,
+  "atk": 800,
+  "def": 700,
+  "properties": [
+    "Dragón",
+    "Cantante",
+    "Efecto"
+  ]
+}

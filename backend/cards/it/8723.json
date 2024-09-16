@@ -1,0 +1,15 @@
+{
+  "id": 8723,
+  "type": "monster",
+  "name": "Naturia Quercia Bianca",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio questa carta (Effetto Rapido): puoi mandare questa carta dal Terreno al Cimitero; Evoca Specialmente 2 mostri \"Naturia\" di Livello 4 o inferiore dal tuo Deck, ma essi non possono dichiarare un attacco, inoltre distruggili durante la tua End Phase.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

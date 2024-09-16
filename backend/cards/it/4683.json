@@ -1,0 +1,10 @@
+{
+  "id": 4683,
+  "type": "spell",
+  "name": "Ricetta dell'Hamburger",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Questa carta viene utilizzata per Evocare tramite Rituale \"Hamburger Affamato\". Devi anche offrire come Tributo mostri dalla tua mano o Terreno con Livello totale pari o superiore a 6.",
+  "englishProperty": "ritual",
+  "localizedProperty": "Rituale"
+}

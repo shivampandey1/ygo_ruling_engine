@@ -1,0 +1,15 @@
+{
+  "id": 4708,
+  "type": "monster",
+  "name": "Hamburger Affamato",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi Evocare tramite Rituale questa carta con \"Ricetta dell'Hamburger\".",
+  "level": 6,
+  "atk": 2000,
+  "def": 1850,
+  "properties": [
+    "Guerriero",
+    "Rituale"
+  ]
+}

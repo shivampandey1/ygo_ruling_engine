@@ -1,0 +1,10 @@
+{
+  "id": 7053,
+  "type": "trap",
+  "name": "El Auspicio de Gaia",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Gana 3000 LP. Si esta carta boca arriba deja el Campo, el controlador de esta carta recibe 3000 puntos de daño.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

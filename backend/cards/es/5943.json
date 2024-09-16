@@ -1,0 +1,15 @@
+{
+  "id": 5943,
+  "type": "monster",
+  "name": "Seis como Máximo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando Invocas por Sacrificio a esta carta, lanza un dado de 6 caras. Esta carta gana ATK igual al resultado del dado x 200.",
+  "level": 6,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

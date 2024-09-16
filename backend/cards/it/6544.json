@@ -1,0 +1,8 @@
+{
+  "id": 6544,
+  "type": "trap",
+  "name": "La Tomba del Risveglio",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Quando un mostro che controlli viene distrutto in battaglia e mandato al Cimitero: ogni giocatore sceglie come bersaglio 1 mostro nel suo Cimitero; ogni giocatore Evoca Specialmente il suo mostro in Posizione di Difesa, ma quei mostri non possono cambiare la loro posizione."
+}

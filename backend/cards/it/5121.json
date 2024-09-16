@@ -1,0 +1,10 @@
+{
+  "id": 5121,
+  "type": "spell",
+  "name": "Carte Infinite",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Non c'è limite alla dimensione della mano per ogni giocatore.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

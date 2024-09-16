@@ -1,0 +1,16 @@
+{
+  "id": 8704,
+  "type": "monster",
+  "name": "Hérisson de la Néo Cloche de Feu",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Si cette carte est détruite au combat : ciblez 1 carte dans le Cimetière de votre adversaire ; bannissez-la. Si cette carte sur le Terrain est détruite par un effet de carte : ciblez 1 monstre FEU avec max. 200 DEF (\"Hérisson de la Néo Cloche de Feu\" exclu) dans votre Cimetière ; ajoutez la cible à votre main.",
+  "level": 3,
+  "atk": 800,
+  "def": 200,
+  "properties": [
+    "Pyro",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 5278,
+  "type": "spell",
+  "name": "Excavación Milagrosa",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Si al menos 5 de tus monstruos están desterrados: selecciona 3 de ellos; devuélvelos al Cementerio."
+}

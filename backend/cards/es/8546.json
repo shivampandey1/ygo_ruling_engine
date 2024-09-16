@@ -1,0 +1,15 @@
+{
+  "id": 8546,
+  "type": "monster",
+  "name": "Aliado Genex Duradark",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez por turno: puedes seleccionar 1 monstruo en Posición de Ataque que controle tu adversario con el mismo Atributo que esta carta; destruye ese objetivo. Esta carta no puede atacar en el turno en el que este efecto es activado.",
+  "level": 4,
+  "atk": 1800,
+  "def": 200,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

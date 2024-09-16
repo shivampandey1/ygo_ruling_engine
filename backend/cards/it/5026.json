@@ -1,0 +1,15 @@
+{
+  "id": 5026,
+  "type": "monster",
+  "name": "Vergine dell'Acqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Mentre non c'è nessuna Magia Terreno scoperta, il Terreno viene considerato come \"Umi\".",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

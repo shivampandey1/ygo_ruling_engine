@@ -1,0 +1,15 @@
+{
+  "id": 6753,
+  "type": "monster",
+  "name": "Fonceur - HÉROS de la Destinée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez Sacrifier 1 autre monstre ; jusqu'à la fin de ce tour, cette carte gagne 1000 ATK. Si cette carte attaque, changez-la en Position de Défense à la fin de la Battle Phase. Une fois, tant que cette carte est dans votre Cimetière, lorsque vous piochez un monstre durant votre Draw Phase : vous pouvez le révéler ; Invoquez-le Spécialement. Cette carte doit être dans le Cimetière pour activer et résoudre cet effet.",
+  "level": 6,
+  "atk": 2100,
+  "def": 1000,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

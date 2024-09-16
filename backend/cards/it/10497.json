@@ -1,0 +1,15 @@
+{
+  "id": 10497,
+  "type": "monster",
+  "name": "Pugile Indomito Casco",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUOCO",
+  "effectText": "Quando questa carta viene Evocata Normalmente: puoi mandare 1 mostro \"Pugile Indomito\" dal tuo Deck al Cimitero. La prima volta che questa carta in Posizione di Attacco sta per essere distrutta in battaglia ogni turno, non viene distrutta.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1800,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

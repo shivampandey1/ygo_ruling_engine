@@ -1,0 +1,15 @@
+{
+  "id": 5141,
+  "type": "monster",
+  "name": "Bebé Vampiro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Al final de la Battle Phase, si esta carta destruyó un monstruo en batalla y lo mandó al Cementerio este turno: puedes Invocar ese monstruo de Modo Especial a tu Campo.",
+  "level": 3,
+  "atk": 700,
+  "def": 1000,
+  "properties": [
+    "Zombi",
+    "Efecto"
+  ]
+}

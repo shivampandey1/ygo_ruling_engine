@@ -1,0 +1,16 @@
+{
+  "id": 9869,
+  "type": "monster",
+  "name": "Dolkka Evolugarto",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos Dinosaurio de Nivel 4\nCuando es activado el efecto de otro monstruo (Efecto Rápido): puedes desacoplar 1 material de esta carta; niega la activación y, si lo haces, destruye ese monstruo.",
+  "rank": 4,
+  "atk": 2300,
+  "def": 1700,
+  "properties": [
+    "Dragón",
+    "Xyz",
+    "Efecto"
+  ]
+}

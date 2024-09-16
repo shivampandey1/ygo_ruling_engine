@@ -1,0 +1,8 @@
+{
+  "id": 11407,
+  "type": "trap",
+  "name": "Brutalité Yang Zing",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Si un monstre \"Yang Zing\" que vous contrôlez combat un monstre de l'adversaire, durant le calcul des dommages : l'ATK/DEF de votre monstre combattant devient le double de son ATK/DEF d'origine durant ce calcul des dommages uniquement, mais détruisez-le à la fin de la Damage Step."
+}

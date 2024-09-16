@@ -1,0 +1,15 @@
+{
+  "id": 5025,
+  "type": "monster",
+  "name": "Princesa Serpentina",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Si esta carta boca arriba en el Campo es barajada a tu Deck: Invoca de Modo Especial 1 monstruo de Nivel 3 o menor desde tu Deck.",
+  "level": 4,
+  "atk": 1400,
+  "def": 2000,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

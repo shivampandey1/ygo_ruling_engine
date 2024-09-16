@@ -1,0 +1,15 @@
+{
+  "id": 8112,
+  "type": "monster",
+  "name": "Slimitatore Alleato della Giustizia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Puoi offrire come Tributo questa carta, poi scegliere come bersaglio 1 mostro \"Alleato della Giustizia\" che controlli; l'ATK di quel bersaglio diventa il doppio del suo ATK originale fino alla fine di questo turno.",
+  "level": 2,
+  "atk": 600,
+  "def": 200,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

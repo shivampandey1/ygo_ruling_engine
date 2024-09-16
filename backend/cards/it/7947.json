@@ -1,0 +1,16 @@
+{
+  "id": 7947,
+  "type": "monster",
+  "name": "Naturia Foglia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando il tuo avversario attiva una Carta Magia/Trappola (Effetto Rapido): puoi offrire come Tributo 1 mostro \"Naturia\" e questa carta; annulla l'attivazione e, se lo fai, distruggi quella carta.",
+  "level": 1,
+  "atk": 200,
+  "def": 300,
+  "properties": [
+    "Pianta",
+    "Tuner",
+    "Effetto"
+  ]
+}

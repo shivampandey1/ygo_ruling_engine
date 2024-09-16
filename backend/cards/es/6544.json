@@ -1,0 +1,8 @@
+{
+  "id": 6544,
+  "type": "trap",
+  "name": "La Tumba de Reanimación",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando un monstruo que controlas es destruido en batalla y mandado al Cementerio: cada jugador selecciona 1 monstruo en su Cementerio; cada jugador Invoca su monstruo de Modo Especial en Posición de Defensa, pero esos monstruos no pueden cambiar sus posiciones de batalla."
+}

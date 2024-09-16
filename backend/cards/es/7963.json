@@ -1,0 +1,15 @@
+{
+  "id": 7963,
+  "type": "monster",
+  "name": "Atrapa-enemigos Aliado de la Justicia",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo en Posición de Defensa boca abajo que controle tu adversario; hasta la End Phase, toma el control de ese objetivo.",
+  "level": 6,
+  "atk": 1800,
+  "def": 1800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

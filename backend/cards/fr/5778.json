@@ -1,0 +1,15 @@
+{
+  "id": 5778,
+  "type": "monster",
+  "name": "Crâne Archdémon d'Éclairs",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour, durant votre Standby Phase, vous devez payer 500 LP (ceci est obligatoire), ou cette carte est détruite. Lors de la résolution d'un effet de carte de l'adversaire qui cible cette carte, lancez un dé à six faces et annulez l'effet si le résultat est 1, 3 ou 6, et si vous le faites, détruisez la carte.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

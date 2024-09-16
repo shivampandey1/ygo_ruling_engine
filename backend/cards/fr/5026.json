@@ -1,0 +1,15 @@
+{
+  "id": 5026,
+  "type": "monster",
+  "name": "Servante de l'Aqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Tant qu'il n'y a aucune Magie de Terrain face recto, le Terrain est traité comme \"Umi\".",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

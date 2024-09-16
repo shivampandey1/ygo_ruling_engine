@@ -1,0 +1,8 @@
+{
+  "id": 5286,
+  "type": "trap",
+  "name": "Arqueras Amazoness",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando un monstruo del adversario declara un ataque, mientras tú controlas un monstruo \"Amazoness\": cambia a Posición de Ataque boca arriba todos los monstruos que tu adversario controle en este momento (los efectos de Volteo no se activan), éstos pierden 500 ATK, y además deben atacar este turno, si pueden."
+}

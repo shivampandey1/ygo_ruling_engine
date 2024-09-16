@@ -1,0 +1,10 @@
+{
+  "id": 10436,
+  "type": "trap",
+  "name": "Rivaltribal Xyz",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Les Monstres Xyz face recto sur le Terrain avec min. 2 Matériels ne peuvent pas être détruits par des effets de carte. Après le calcul des dommages, si votre Monstre Xyz a combattu un monstre de l'adversaire tant que cette carte est déjà face recto dans votre Zone Magie & Piège : détruisez le monstre de l'adversaire. Le Monstre Xyz doit avoir min. 2 Matériels attachés pour activer et résoudre cet effet.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

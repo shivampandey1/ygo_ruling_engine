@@ -1,0 +1,15 @@
+{
+  "id": 4379,
+  "type": "monster",
+  "name": "Suijin",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una volta mentre è scoperta sul Terreno, durante il calcolo dei danni nel turno del tuo avversario, se questa carta sta venendo attaccata (Effetto Rapido): puoi scegliere come bersaglio il mostro attaccante; fai diventare 0 l'ATK di quel bersaglio solamente durante il calcolo dei danni.",
+  "level": 7,
+  "atk": 2500,
+  "def": 2400,
+  "properties": [
+    "Acqua",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8007,
+  "type": "monster",
+  "name": "Dragon Rouge Archdémon/Mode Assaut",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement avec \"Activation Mode Assaut\". Après le calcul des dommages, si cette carte a attaqué : détruisez tous les autres monstres sur le Terrain. Lorsque cette carte sur le Terrain est détruite : vous pouvez cibler 1 \"Dragon Rouge Archdémon\" dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "level": 10,
+  "atk": 3500,
+  "def": 2500,
+  "properties": [
+    "Dragon",
+    "Effet"
+  ]
+}

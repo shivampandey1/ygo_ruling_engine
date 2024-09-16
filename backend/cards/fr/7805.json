@@ -1,0 +1,15 @@
+{
+  "id": 7805,
+  "type": "monster",
+  "name": "Néos le Sage",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en envoyant 1 \"Néos, HÉROS Élémentaire\" face recto et 1 \"Yubel\" face recto que vous contrôlez au Cimetière. Non destructible par des effets de carte. À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : infligez des dommages à votre adversaire égaux à l'ATK du monstre de l'adversaire, et aussi, vous gagnez des LP égaux à la DEF du monstre de l'adversaire.",
+  "level": 10,
+  "atk": 3000,
+  "def": 3000,
+  "properties": [
+    "Magicien",
+    "Effet"
+  ]
+}

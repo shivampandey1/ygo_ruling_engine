@@ -1,0 +1,15 @@
+{
+  "id": 7434,
+  "type": "monster",
+  "name": "Rey Celacanto Superanciano de Aguas Profundas",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Una vez por turno: puedes descartar 1 carta; Invoca de Modo Especial, desde tu Deck, tantos monstruos Pez de Nivel 4 o menor como sea posible, pero éstos no pueden declarar ataques y sus efectos son negados. Cuando es activada una carta o efecto que selecciona esta carta en el Campo (Efecto Rápido): puedes Sacrificar otro monstruo Pez; niega ese efecto y, si lo haces, destruye esa carta.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Pez",
+    "Efecto"
+  ]
+}

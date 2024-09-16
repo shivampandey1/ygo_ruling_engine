@@ -1,0 +1,8 @@
+{
+  "id": 12571,
+  "type": "spell",
+  "name": "L'Exhumation du Tribut",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Une fois durant ce tour, vous pouvez Invoquer par Sacrifice un monstre qui nécessite 2 Sacrifices en bannissant 1 monstre depuis chaque Cimetière à la place, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres le reste de ce tour."
+}

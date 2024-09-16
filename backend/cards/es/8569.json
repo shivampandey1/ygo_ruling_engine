@@ -1,0 +1,15 @@
+{
+  "id": 8569,
+  "type": "monster",
+  "name": "Fresa Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Una vez por turno, si tu adversario Invoca uno o más monstruos de Modo Normal o Especial: selecciona 1 de esos monstruos; hasta el final de este turno, esta carta gana 100 ATK x el Nivel de ese monstruo.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Planta",
+    "Efecto"
+  ]
+}

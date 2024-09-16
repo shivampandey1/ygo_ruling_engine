@@ -1,0 +1,8 @@
+{
+  "id": 6952,
+  "type": "trap",
+  "name": "D- Contragolpe",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando un monstruo \"HÉROE del Destino\" boca arriba que controlas es seleccionado para un ataque: destruye el monstruo atacante."
+}

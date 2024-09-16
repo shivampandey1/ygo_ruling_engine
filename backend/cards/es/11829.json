@@ -1,0 +1,15 @@
+{
+  "id": 11829,
+  "type": "monster",
+  "name": "\"C\" Contraatacante",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Cuando tu adversario activa una Carta Mágica que incluye un efecto que Invoca uno o más monstruos de Modo Especial (Efecto Rápido): puedes Invocar esta carta de Modo Especial desde tu mano. Si es Invocada de esta forma, mientras esta carta esté boca arriba en el Campo, cualquier carta mandada al Cementerio es desterrada en su lugar. Si esta carta es mandada del Campo al Cementerio: puedes añadir a tu mano 1 monstruo Insecto de TIERRA con 1500 ATK o menos en tu Deck, excepto \"\"C\" Contraatacante\".",
+  "level": 4,
+  "atk": 1400,
+  "def": 1400,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

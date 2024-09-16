@@ -1,0 +1,8 @@
+{
+  "id": 6824,
+  "type": "trap",
+  "name": "Erupción Volcánica",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "(Esta carta no se trata como una carta \"Volcánico/a\").\nDurante tu End Phase, si controlas \"Mundo Jurásico\": destruye todas las cartas en el Campo."
+}

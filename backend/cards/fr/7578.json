@@ -1,0 +1,15 @@
+{
+  "id": 7578,
+  "type": "monster",
+  "name": "Reine Volcanique",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) sur le Terrain de votre adversaire en Sacrifiant 1 monstre qu'il contrôle. Vous ne pouvez pas Invoquer/Poser Normalement le tour où vous Invoquez Spécialement cette carte. Une fois par tour : vous pouvez envoyer 1 autre carte que vous contrôlez au Cimetière ; infligez 1000 points de dommages à votre adversaire. Une fois par tour, durant votre End Phase : Sacrifiez 1 autre monstre ou recevez 1000 points de dommages.",
+  "level": 6,
+  "atk": 2500,
+  "def": 1200,
+  "properties": [
+    "Pyro",
+    "Effet"
+  ]
+}

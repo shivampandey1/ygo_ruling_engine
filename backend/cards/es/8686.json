@@ -1,0 +1,8 @@
+{
+  "id": 8686,
+  "type": "trap",
+  "name": "Cerebro Alienígena",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Si un monstruo Reptil que controlas es destruido en batalla con un monstruo atacante del adversario y mandado al Cementerio: toma el control del monstruo del adversario y, si lo haces, éste se convierte en Reptil."
+}

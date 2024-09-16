@@ -1,0 +1,15 @@
+{
+  "id": 7102,
+  "type": "monster",
+  "name": "Disparador Volcánico",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes poner en la parte superior de tu Deck 1 monstruo \"Volcánico/a\" en tu Deck.",
+  "level": 3,
+  "atk": 1200,
+  "def": 600,
+  "properties": [
+    "Piro",
+    "Efecto"
+  ]
+}

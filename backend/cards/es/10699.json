@@ -1,0 +1,15 @@
+{
+  "id": 10699,
+  "type": "monster",
+  "name": "Caja de Amigos",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Si esta carta es destruida y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 2 Monstruos Normales con 0 ATK o DEF y nombres diferentes en Posición de Defensa, pero no pueden ser usados como Material de Sincronía, y además son destruidos durante tu próxima End Phase. Sólo puedes usar este efecto de \"Caja de Amigos\" una vez por turno.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

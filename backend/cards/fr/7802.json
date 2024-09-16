@@ -1,0 +1,15 @@
+{
+  "id": 7802,
+  "type": "monster",
+  "name": "Bête Dinosaure Millénaire",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous pouvez Invoquer par Invocation Sacrifice cette carte en Position d'Attaque face recto en Sacrifiant 1 monstre de Type Dinosaure. Lorsqu'un monstre de Type Dinosaure est Invoqué Spécialement depuis votre Cimetière, vous pouvez piocher 1 carte.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1400,
+  "properties": [
+    "Dinosaure",
+    "Effet"
+  ]
+}

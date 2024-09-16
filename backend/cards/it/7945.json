@@ -1,0 +1,15 @@
+{
+  "id": 7945,
+  "type": "monster",
+  "name": "Naturia Roccia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Una volta per Catena, quando viene attivata una Carta Trappola (Effetto Rapido): puoi mandare la prima carta del tuo Deck al Cimitero; Evoca Specialmente questa carta dalla tua mano.",
+  "level": 3,
+  "atk": 1200,
+  "def": 1200,
+  "properties": [
+    "Roccia",
+    "Effetto"
+  ]
+}

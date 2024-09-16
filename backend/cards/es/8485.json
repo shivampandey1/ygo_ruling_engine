@@ -1,0 +1,8 @@
+{
+  "id": 8485,
+  "type": "spell",
+  "name": "Prole Reptílica",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Destierra 1 monstruo \"Reptílico/a\" en tu Cementerio; Invoca de Modo Especial 2 \"Ficha Reptílica\" (Reptil/TIERRA/Nivel 1/ATK 0/DEF 0)."
+}

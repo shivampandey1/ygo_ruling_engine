@@ -1,0 +1,15 @@
+{
+  "id": 4172,
+  "type": "monster",
+  "name": "Marionnettiste Mystérieux",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si un autre monstre est Invoqué Normalement ou par Flip : gagnez 500 LP.",
+  "level": 4,
+  "atk": 1000,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

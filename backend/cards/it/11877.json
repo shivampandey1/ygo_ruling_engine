@@ -1,0 +1,16 @@
+{
+  "id": 11877,
+  "type": "monster",
+  "name": "Mare Mare",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Non può essere Evocato Specialmente, eccetto dall'effetto di un mostro Wyrm. Durante la tua Main Phase: puoi ridurre di 1 il Livello di questa carta e, se lo fai, Evoca Specialmente 1 \"Segna-Mini Mare Mare\" (Wyrm/ACQUA/Livello 1/ATK 300/DEF 200). Puoi utilizzare questo effetto di \"Mare Mare\" fino a tre volte per turno.",
+  "level": 7,
+  "atk": 2100,
+  "def": 1400,
+  "properties": [
+    "Wyrm",
+    "Tuner",
+    "Effetto"
+  ]
+}

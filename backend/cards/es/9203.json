@@ -1,0 +1,15 @@
+{
+  "id": 9203,
+  "type": "monster",
+  "name": "Exploradoras Amazoness",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "(Efecto Rápido): puedes Sacrificar esta carta; este turno, ningún jugador puede seleccionar monstruos \"Amazoness\" que controles en este momento con efectos de monstruos, y además no pueden ser destruidos por efectos de cartas.",
+  "level": 2,
+  "atk": 500,
+  "def": 1100,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

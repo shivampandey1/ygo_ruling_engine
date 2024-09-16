@@ -1,0 +1,10 @@
+{
+  "id": 4866,
+  "type": "trap",
+  "name": "Decreto Reale",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Annulla gli effetti sul Terreno di tutte le altre Trappole.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

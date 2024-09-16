@@ -1,0 +1,15 @@
+{
+  "id": 10515,
+  "type": "monster",
+  "name": "Avatar del Rey de Fuego Garunix",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "Si uno o más monstruos \"Rey(es) de Fuego\" boca arriba que controles son destruidos por el efecto de una carta (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta en tu posesión es destruida por una carta del adversario y mandada a tu Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Avatar del Rey de Fuego\".",
+  "level": 3,
+  "atk": 700,
+  "def": 1700,
+  "properties": [
+    "Bestia Alada",
+    "Efecto"
+  ]
+}

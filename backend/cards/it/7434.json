@@ -1,0 +1,15 @@
+{
+  "id": 7434,
+  "type": "monster",
+  "name": "Antico Re Coelacanth delle Profondità Marine",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Una volta per turno: puoi scartare 1 carta; Evoca Specialmente tanti mostri Pesce di Livello 4 o inferiore quanti possibile dal tuo Deck, ma essi non possono dichiarare un attacco e i loro effetti sono annullati. Quando viene attivata una carta o un effetto che sceglie come bersaglio questa carta sul Terreno (Effetto Rapido): puoi offrire come Tributo 1 altro mostro Pesce; annulla quell'effetto e, se lo fai, distruggi quella carta.",
+  "level": 7,
+  "atk": 2800,
+  "def": 2200,
+  "properties": [
+    "Pesce",
+    "Effetto"
+  ]
+}

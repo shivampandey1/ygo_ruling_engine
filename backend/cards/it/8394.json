@@ -1,0 +1,15 @@
+{
+  "id": 8394,
+  "type": "monster",
+  "name": "Il Favoloso Ashenveil",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per battaglia, se questa carta combatte, durante il calcolo dei danni (Effetto Rapido): puoi mandare 1 carta dalla tua mano al Cimitero; questa carta guadagna 600 ATK solamente durante quel calcolo dei danni.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

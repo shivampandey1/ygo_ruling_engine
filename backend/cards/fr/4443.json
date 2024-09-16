@@ -1,0 +1,15 @@
+{
+  "id": 4443,
+  "type": "monster",
+  "name": "Requin des Mers Profondes",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "\"Habitant des Profondeurs\" + \"Tongyo\"",
+  "level": 5,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Poisson",
+    "Fusion"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6385,
+  "type": "monster",
+  "name": "Gyroid",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "La prima volta che questa carta sta per essere distrutta in battaglia ogni turno, essa non viene distrutta.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1000,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

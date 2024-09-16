@@ -1,0 +1,15 @@
+{
+  "id": 5647,
+  "type": "monster",
+  "name": "Tigresse Amazonesse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Vous ne pouvez contrôler qu'1 \"Tigresse Amazonesse\". Gagne 400 ATK pour chaque monstre \"Amazonesse\" que vous contrôlez. Les monstres de votre adversaire ne peuvent pas attaquer de monstres \"Amazonesse\" (celui-ci exclu).",
+  "level": 4,
+  "atk": 1100,
+  "def": 1500,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

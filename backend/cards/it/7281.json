@@ -1,0 +1,15 @@
+{
+  "id": 7281,
+  "type": "monster",
+  "name": "Nubiano - Turbolenza",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Non può essere distrutto in battaglia. Se questa carta è scoperta in Posizione di Difesa, distruggila. Se questa carta viene Evocata Normalmente: metti 1 Segnalino Nebbia su di essa per ogni mostro \"Nubiano\" sul Terreno. Puoi rimuovere 1 Segnalino Nebbia da questa carta; Evoca Specialmente 1 \"Nubiano - Palla di Fumo\" dal tuo Deck o qualsiasi Cimitero.",
+  "level": 4,
+  "atk": 800,
+  "def": 0,
+  "properties": [
+    "Fata",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 7053,
+  "type": "trap",
+  "name": "Égide de Gaia",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Gagnez 3000 LP. Si cette carte face recto quitte le Terrain, le contrôleur de cette carte reçoit 3000 points de dommages.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

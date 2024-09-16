@@ -1,0 +1,15 @@
+{
+  "id": 8553,
+  "type": "monster",
+  "name": "A·제넥스 솔리드",
+  "englishAttribute": "dark",
+  "localizedAttribute": "어둠",
+  "effectText": "①: 1턴에 1번, 자신 필드의 앞면 표시 물 속성의 \"제넥스\" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 자신은 2장 드로우한다.",
+  "level": 2,
+  "atk": 500,
+  "def": 1200,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

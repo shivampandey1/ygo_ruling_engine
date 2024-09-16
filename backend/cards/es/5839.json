@@ -1,0 +1,8 @@
+{
+  "id": 5839,
+  "type": "spell",
+  "name": "¡¡Huracán Ojama Delta!!",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Si controlas \"Ojama Verde\", \"Ojama Amarillo\" y \"Ojama Negro\": destruye todas las cartas que controle tu adversario."
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7264,
+  "type": "monster",
+  "name": "Cloudian - Ojo del Tifón",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "No puede ser destruido en batalla. Si esta carta está en Posición de Defensa boca arriba, destrúyela. Si esta carta declara un ataque: cambia las posiciones de batalla de todos los monstruos boca arriba, excepto los monstruos \"Cloudian\".",
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

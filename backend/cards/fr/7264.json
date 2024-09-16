@@ -1,0 +1,15 @@
+{
+  "id": 7264,
+  "type": "monster",
+  "name": "Nuagien - Œil du Typhon",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "Non destructible au combat. Si cette carte est en Position de Défense face recto, détruisez-la. Si cette carte déclare une attaque : changez la position de combat de tous les monstres face recto (monstres \"Nuagien\" exclus).",
+  "level": 8,
+  "atk": 3000,
+  "def": 1000,
+  "properties": [
+    "Aqua",
+    "Effet"
+  ]
+}

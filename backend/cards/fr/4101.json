@@ -1,0 +1,15 @@
+{
+  "id": 4101,
+  "type": "monster",
+  "name": "Clown Grossier",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Si cette carte en Position de Défense est changée en Position d'Attaque : ciblez 1 monstre contrôlé par votre adversaire ; renvoyez la cible à la main.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1400,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

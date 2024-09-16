@@ -1,0 +1,15 @@
+{
+  "id": 6570,
+  "type": "monster",
+  "name": "Mecanismo Antiguo",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Si controlas un \"Mecanismo Antiguo\", puedes Invocar esta carta de Modo Especial (desde tu mano) en Posición de Ataque.",
+  "level": 2,
+  "atk": 100,
+  "def": 800,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

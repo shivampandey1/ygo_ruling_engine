@@ -1,0 +1,10 @@
+{
+  "id": 6758,
+  "type": "spell",
+  "name": "Città Oscura",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Se un mostro \"EROE del Destino\" attacca un mostro con ATK superiore, il mostro attaccante guadagna 1000 ATK solamente durante il calcolo dei danni.",
+  "englishProperty": "field",
+  "localizedProperty": "Terreno"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 6645,
+  "type": "monster",
+  "name": "Homunculus Dorato",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Guadagna 300 ATK/DEF per ognuna delle tue carte bandite.",
+  "level": 6,
+  "atk": 1500,
+  "def": 1500,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 5984,
+  "type": "spell",
+  "name": "Talismano del Sigilla-Trappole",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Attiva questa carta solo se controlli \"Maisei Maestro dei Sigilli\". Le Carte Trappola, e i loro effetti sul Terreno, non possono essere attivati. Annulla gli effetti di tutte le Trappole sul Terreno. Se non controlli \"Maisei Maestro dei Sigilli\", distruggi questa carta.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

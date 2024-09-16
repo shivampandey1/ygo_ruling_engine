@@ -1,0 +1,15 @@
+{
+  "id": 7802,
+  "type": "monster",
+  "name": "Dinobestia Super Antigua",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Puedes Invocar por Sacrificio a esta carta en Posición de Ataque boca arriba Sacrificando 1 monstruo de Tipo Dinosaurio. Cuando 1 monstruo de Tipo Dinosaurio es Invocado de Modo Especial desde tu Cementerio, puedes robar 1 carta.",
+  "level": 8,
+  "atk": 2700,
+  "def": 1400,
+  "properties": [
+    "Dinosaurio",
+    "Efecto"
+  ]
+}

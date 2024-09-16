@@ -1,0 +1,10 @@
+{
+  "id": 9715,
+  "type": "spell",
+  "name": "Portail du Monde Ténébreux",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Tous les monstres Démon gagnent 300 ATK/DEF. Une fois par tour : vous pouvez bannir 1 monstre Démon depuis votre Cimetière ; défaussez 1 monstre Démon, puis piochez 1 carte.",
+  "englishProperty": "field",
+  "localizedProperty": "Terrain"
+}

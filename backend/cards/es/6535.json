@@ -1,0 +1,16 @@
+{
+  "id": 6535,
+  "type": "monster",
+  "name": "HÉROE Elemental Steam Healer",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "\"HÉROE Elemental Burstinatrix\" + \"HÉROE Elemental Bubbleman\"\nDebe ser Invocado por Fusión. Si esta carta destruye un monstruo en batalla y lo manda al Cementerio: gana LP iguales al ATK original de ese monstruo en el Cementerio.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Guerrero",
+    "Fusión",
+    "Efecto"
+  ]
+}

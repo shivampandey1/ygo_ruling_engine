@@ -1,0 +1,15 @@
+{
+  "id": 8394,
+  "type": "monster",
+  "name": "Fabuloso Ashenvil",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por batalla, si esta carta batalla, durante el cálculo de daño (Efecto Rápido): puedes mandar al Cementerio 1 carta en tu mano; esta carta gana 600 ATK sólo durante ese cálculo de daño.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

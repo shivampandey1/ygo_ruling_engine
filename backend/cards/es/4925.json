@@ -1,0 +1,15 @@
+{
+  "id": 4925,
+  "type": "monster",
+  "name": "Soldado Jabalí",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "Esta carta sólo puede ser Invocada por Volteo. Si es Invocada de Modo Normal, la carta es destruida. Si tu adversario tiene 1 o más monstruos bajo su control, el ATK de esta carta se reduce en 1000 puntos.",
+  "level": 4,
+  "atk": 2000,
+  "def": 500,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

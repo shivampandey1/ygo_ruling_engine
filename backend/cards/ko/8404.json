@@ -1,0 +1,15 @@
+{
+  "id": 8404,
+  "type": "monster",
+  "name": "레알 제넥스 울티멈",
+  "englishAttribute": "earth",
+  "localizedAttribute": "땅",
+  "effectText": "①: 필드의 앞면 표시의 이 카드가 파괴되어 묘지로 보내졌을 때, 자신 묘지의 \"제넥스\" 몬스터 2장을 대상으로 하고 발동할 수 있다. 그 몬스터를 덱으로 되돌린다.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1400,
+  "properties": [
+    "기계족",
+    "효과"
+  ]
+}

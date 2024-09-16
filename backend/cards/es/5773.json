@@ -1,0 +1,15 @@
+{
+  "id": 5773,
+  "type": "monster",
+  "name": "Archidemonio Caballero de la Sombra",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VIENTO",
+  "effectText": "Una vez por turno, durante tu Standby Phase, debes pagar 900 LP (esto no es opcional), o esta carta es destruida. Al resolver el efecto de una carta del adversario que seleccione esta carta, lanza un dado de seis caras y niega ese efecto si sale 3 y, si lo haces, destruye esa carta. Cualquier daño de batalla que esta carta inflige a tu adversario se divide a la mitad.",
+  "level": 4,
+  "atk": 2000,
+  "def": 1600,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

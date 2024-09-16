@@ -1,0 +1,15 @@
+{
+  "id": 6658,
+  "type": "monster",
+  "name": "Seigneur de la Damnation - HÉROS de la Destinée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez la cible. Vous ne pouvez pas déclarer d'attaque le tour où vous activez cet effet. Vous devez contrôler cette carte en Position d'Attaque face recto pour activer et résoudre cet effet. Durant votre 2e Standby Phase après activation, le monstre banni est renvoyé sur le Terrain de l'adversaire.",
+  "level": 3,
+  "atk": 600,
+  "def": 800,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 13001,
+  "type": "trap",
+  "name": "Desideri Convergenti",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Se hai 5 o più Mostri Synchro Drago con nomi diversi nel tuo Cimitero: Evoca Specialmente 1 \"Drago Polvere di Stelle\" dal tuo Extra Deck (questa viene considerata come una Synchro Evocazione), ed equipaggialo con questa carta, ma bandiscilo durante la End Phase. Quel mostro equipaggiato guadagna ATK pari alla somma degli ATK di tutti i Mostri Synchro Drago nel tuo Cimitero. Ogni volta che quel mostro equipaggiato distrugge un mostro dell'avversario in battaglia: puoi bandire 1 Mostro Synchro Drago dal tuo Cimitero; quel mostro equipaggiato può attaccare di nuovo un mostro dell'avversario di seguito."
+}

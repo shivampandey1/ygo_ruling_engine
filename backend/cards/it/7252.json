@@ -1,0 +1,16 @@
+{
+  "id": 7252,
+  "type": "monster",
+  "name": "Plasma Vice EROE Elementale",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "\"Sparkman EROE Elementale\" + \"Bladedge EROE Elementale\"\nDeve essere Evocato tramite Fusione. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante. Puoi scartare 1 carta, poi scegliere come bersaglio 1 mostro in Posizione di Attacco controllato dal tuo avversario; distruggi quel bersaglio.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2300,
+  "properties": [
+    "Guerriero",
+    "Fusione",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6149,
+  "type": "trap",
+  "name": "Barrera de Vida Mística",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Descarta 1 carta; este turno no recibes daño por las cartas de tu adversario, y además este turno tus monstruos no pueden ser destruidos en batalla."
+}

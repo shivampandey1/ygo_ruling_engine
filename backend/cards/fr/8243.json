@@ -1,0 +1,15 @@
+{
+  "id": 8243,
+  "type": "monster",
+  "name": "Tournesol Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Lorsqu'un effet de monstre de votre adversaire est activé (Effet Rapide) : vous pouvez Sacrifier 1 monstre \"Naturia\" et cette carte ; annulez l'activation, et si vous le faites, détruisez la carte.",
+  "level": 2,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

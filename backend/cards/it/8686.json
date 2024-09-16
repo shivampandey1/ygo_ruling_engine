@@ -1,0 +1,8 @@
+{
+  "id": 8686,
+  "type": "trap",
+  "name": "Cervello Alieno",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Se un mostro Rettile che controlli viene distrutto in battaglia con un mostro attaccante dell'avversario e mandato al Cimitero: prendi il controllo del mostro dell'avversario e, se lo fai, esso diventa un Rettile."
+}

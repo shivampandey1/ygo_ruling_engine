@@ -1,0 +1,15 @@
+{
+  "id": 6121,
+  "type": "monster",
+  "name": "Le Cheval de Troie",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Cette carte peut être traitée comme 2 Sacrifices pour l'Invocation Sacrifice d'un monstre TERRE.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

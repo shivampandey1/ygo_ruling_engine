@@ -1,0 +1,15 @@
+{
+  "id": 8101,
+  "type": "monster",
+  "name": "Arañacolmillo Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No puede declarar un ataque a menos que este turno tu adversario haya activado una carta o efecto.",
+  "level": 4,
+  "atk": 2100,
+  "def": 400,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

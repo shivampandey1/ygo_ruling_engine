@@ -1,0 +1,15 @@
+{
+  "id": 8945,
+  "type": "monster",
+  "name": "Taupe Minière",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "La première fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite. Si cette carte est envoyée au Cimetière pour l'Invocation Synchro d'un monstre Bête : piochez 1 carte. Si cette carte face recto que vous contrôlez quitte le Terrain par un effet de carte de votre adversaire, bannissez-la.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1200,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

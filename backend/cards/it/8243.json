@@ -1,0 +1,15 @@
+{
+  "id": 8243,
+  "type": "monster",
+  "name": "Naturia Girasole",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Quando viene attivato l'effetto di un mostro del tuo avversario (Effetto Rapido): puoi offrire come Tributo 1 mostro \"Naturia\" e questa carta; annulla l'attivazione e, se lo fai, distruggi quella carta.",
+  "level": 2,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

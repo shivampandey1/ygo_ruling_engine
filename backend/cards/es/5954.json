@@ -1,0 +1,15 @@
+{
+  "id": 5954,
+  "type": "monster",
+  "name": "El Agente de la Fuerza - Marte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "No es afectado por Cartas Mágicas o sus efectos. Mientras controles \"El Santuario en el Cielo\" y tengas más LP que tu adversario, esta carta gana ATK/DEF iguales a la diferencia.",
+  "level": 3,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Hada",
+    "Efecto"
+  ]
+}

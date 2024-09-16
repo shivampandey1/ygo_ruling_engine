@@ -1,0 +1,15 @@
+{
+  "id": 6702,
+  "type": "monster",
+  "name": "Wynn Tempestosa",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENTO",
+  "effectText": "Una volta per turno: puoi offrire come Tributo 1 altro mostro VENTO; Evoca Specialmente 1 mostro VENTO dalla tua mano, ma distruggilo quando una \"Wynn Tempestosa\" scoperta che controlli lascia il Terreno.",
+  "level": 4,
+  "atk": 800,
+  "def": 1500,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

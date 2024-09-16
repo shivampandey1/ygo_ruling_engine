@@ -1,0 +1,15 @@
+{
+  "id": 5775,
+  "type": "monster",
+  "name": "Arcidemone Torre della Morte",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Una volta per turno, durante la tua Standby Phase, devi pagare 500 LP (questo non è opzionale), o questa carta viene distrutta. Quando si sta risolvendo l'effetto di una carta dell'avversario che sceglie come bersaglio questa carta, tira un dado a sei facce e annulla quell'effetto se tiri un 3 e, se lo fai, distruggi quella carta. Quando un \"Arcidemone Re del Terrore\" che controlli viene distrutto e mandato al Cimitero (anche durante il Damage Step) (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero, poi scegliere come bersaglio quel \"Arcidemone Re del Terrore\" nel tuo Cimitero; Evocalo Specialmente.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1800,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

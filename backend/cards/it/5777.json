@@ -1,0 +1,15 @@
+{
+  "id": 5777,
+  "type": "monster",
+  "name": "Arcidemone Re del Terrore",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Non può essere Evocato Normalmente o per Scoperta a meno che tu controlli un mostro \"Arcidemone\". Una volta per turno, durante la tua Standby Phase, devi pagare 800 LP (questo non è opzionale), o questa carta viene distrutta. Quando si sta risolvendo l'effetto di una carta dell'avversario che sceglie come bersaglio questa carta, tira un dado a sei facce e annulla quell'effetto se tiri un 2 o 5 e, se lo fai, distruggi quella carta. Annulla gli effetti dei Mostri con Effetto distrutti in battaglia con questa carta (compreso nel Cimitero).",
+  "level": 4,
+  "atk": 2000,
+  "def": 1500,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4018,
+  "type": "monster",
+  "name": "Garde des Marais",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "(Cette carte est toujours traitée comme une carte \"des Gardes\".)\nGagne 500 ATK pour chaque \"Garde des Laves\" que vous contrôlez.",
+  "level": 5,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Guerrier",
+    "Effet"
+  ]
+}

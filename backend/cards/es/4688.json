@@ -1,0 +1,8 @@
+{
+  "id": 4688,
+  "type": "trap",
+  "name": "Eatgaboon",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Si el ATK de un monstruo Invocado por tu adversario (excluyendo una Invocación Especial) es 500 puntos o menos, el monstruo es destruido."
+}

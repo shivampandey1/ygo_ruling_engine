@@ -1,0 +1,10 @@
+{
+  "id": 9953,
+  "type": "trap",
+  "name": "Prison Royale",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Aucun joueur ne peut Invoquer Spécialement de monstres depuis le Cimetière.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11534,
+  "type": "monster",
+  "name": "Infiernoid Harmadik",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo \"Infiernoid\" en tu mano o Cementerio mientras los Niveles y Rangos totales de todos los Monstruos de Efecto que controles sean 8 o menos. Una vez por turno: puedes seleccionar 1 monstruo en el Campo; destrúyelo. Esta carta no puede atacar el turno en el que este efecto es activado. Una vez por turno del adversario (Efecto Rápido): puedes Sacrificar 1 monstruo, y después seleccionar 1 carta en el Cementerio de tu adversario; destiérrala.",
+  "level": 3,
+  "atk": 1600,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

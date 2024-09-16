@@ -1,0 +1,15 @@
+{
+  "id": 7410,
+  "type": "monster",
+  "name": "Yubel - Terreur Incarnée",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement avec \"Yubel\". Non destructible au combat. Vous ne recevez aucun dommage de combat de combats impliquant cette carte. Avant le calcul des dommages, si cette carte en Position d'Attaque face recto est ciblée par une attaque : infligez des dommages à votre adversaire égaux à l'ATK du monstre attaquant. Une fois par tour, durant votre End Phase : détruisez tous les autres monstres sur le Terrain. Lorsque cette carte face recto quitte le Terrain : vous pouvez Invoquer Spécialement 1 \"Yubel - Cauchemar Ultime\" depuis votre main, Deck ou Cimetière.",
+  "level": 11,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

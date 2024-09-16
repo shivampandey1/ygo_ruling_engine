@@ -1,0 +1,10 @@
+{
+  "id": 10544,
+  "type": "spell",
+  "name": "Libro de Magia del Juicio",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Durante la End Phase del turno en el que esta carta fue activada, añade a tu mano Mágicas \"Libro de Magia\" en tu Deck, excepto \"Libro de Magia del Juicio\", hasta el número de Cartas Mágicas activadas después de que esta carta se resuelva, y después puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Lanzador de Conjuros cuyo Nivel sea igual o menor al número de cartas añadidas a tu mano por este efecto. Sólo puedes activar 1 \"Libro de Magia del Juicio\" por turno.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Juego Rápido"
+}

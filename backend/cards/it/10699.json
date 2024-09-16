@@ -1,0 +1,15 @@
+{
+  "id": 10699,
+  "type": "monster",
+  "name": "Scatola di Amici",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta viene distrutta e mandata al Cimitero: puoi Evocare Specialmente 2 Mostri Normali con ATK o DEF 0 e nomi diversi dal tuo Deck in Posizione di Difesa, ma essi non possono essere utilizzati come Materiale Synchro, inoltre vengono distrutti durante la tua prossima End Phase. Puoi utilizzare questo effetto di \"Scatola di Amici\" una sola volta per turno.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Macchina",
+    "Effetto"
+  ]
+}

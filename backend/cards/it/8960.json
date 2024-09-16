@@ -1,0 +1,15 @@
+{
+  "id": 8960,
+  "type": "monster",
+  "name": "Naturia Bambù",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Mentre controlli questa carta scoperta che è stata Evocata tramite Tributo offrendo come Tributo un mostro \"Naturia\", il tuo avversario non può attivare Carte Magia/Trappola.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Pianta",
+    "Effetto"
+  ]
+}

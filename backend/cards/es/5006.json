@@ -1,0 +1,10 @@
+{
+  "id": 5006,
+  "type": "trap",
+  "name": "Coro de Aqua",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Si hay monstruos con el mismo nombre en el Campo, esos monstruos ganan 500 ATK/DEF.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

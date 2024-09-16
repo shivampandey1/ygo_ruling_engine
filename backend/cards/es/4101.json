@@ -1,0 +1,15 @@
+{
+  "id": 4101,
+  "type": "monster",
+  "name": "Payaso Grosero",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Si esta carta en Posición de Defensa es cambiada a Posición de Ataque: selecciona 1 monstruo que controle tu adversario; devuelve ese objetivo a la mano.",
+  "level": 4,
+  "atk": 1350,
+  "def": 1400,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

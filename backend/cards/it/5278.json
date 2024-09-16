@@ -1,0 +1,8 @@
+{
+  "id": 5278,
+  "type": "spell",
+  "name": "Scavo Miracoloso",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Se almeno 5 dei tuoi mostri sono banditi: scegli come bersaglio 3 di essi; falli ritornare nel Cimitero."
+}

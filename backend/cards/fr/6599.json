@@ -1,0 +1,15 @@
+{
+  "id": 6599,
+  "type": "monster",
+  "name": "Insecte Tronçonneuse",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte a combattu, à la fin de la Damage Step : votre adversaire pioche 1 carte.",
+  "level": 4,
+  "atk": 2400,
+  "def": 0,
+  "properties": [
+    "Insecte",
+    "Effet"
+  ]
+}

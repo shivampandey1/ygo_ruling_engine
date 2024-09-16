@@ -1,0 +1,8 @@
+{
+  "id": 11107,
+  "type": "trap",
+  "name": "Universo Xyz",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Selecciona 2 Monstruos Xyz boca arriba en el Campo; manda ambos monstruos al Cementerio, y después Invoca de Modo Especial 1 Monstruo Xyz desde tu Deck Extra, excepto un monstruo \"Número\", cuyo Rango sea igual, o 1 menor, que los Rangos originales combinados de esos 2 Monstruos Xyz y, si lo haces, acóplale esta carta como material y además, por el resto de este turno después de que esta carta se resuelva, tu adversario no recibe daño."
+}

@@ -1,0 +1,10 @@
+{
+  "id": 6138,
+  "type": "spell",
+  "name": "Arme de Fusion",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Équipable uniquement à un Monstre Fusion de max. Niveau 6. Il gagne 1500 ATK/DEF.",
+  "englishProperty": "equip",
+  "localizedProperty": "Équipement"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11037,
+  "type": "monster",
+  "name": "Boxeador Indómito Gran Vendaje",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "La primera vez que esta carta fuera a ser destruida en batalla cada turno, no es destruida. Una vez por turno: puedes seleccionar 1 de tus monstruos \"Boxeador Indómito\" que tenga un Nivel que esté desterrado o en tu Cementerio; el Nivel de todos los monstruos \"Boxeador Indómito\" que controles en este momento se convierte en el Nivel de ese monstruo en este momento.",
+  "level": 2,
+  "atk": 1100,
+  "def": 1400,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

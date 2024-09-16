@@ -1,0 +1,15 @@
+{
+  "id": 6588,
+  "type": "monster",
+  "name": "Proto Ciber Dragón",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "El nombre de esta carta se convierte en \"Ciber Dragón\" mientras está en el Campo.",
+  "level": 3,
+  "atk": 1100,
+  "def": 600,
+  "properties": [
+    "Máquina",
+    "Efecto"
+  ]
+}

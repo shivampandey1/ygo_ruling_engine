@@ -1,0 +1,10 @@
+{
+  "id": 7787,
+  "type": "spell",
+  "name": "Filtre de Puissance",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIE",
+  "effectText": "Aucun joueur ne peut Invoquer Spécialement de monstres avec max. 1000 ATK.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continu"
+}

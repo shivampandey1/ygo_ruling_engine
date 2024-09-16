@@ -1,0 +1,8 @@
+{
+  "id": 5542,
+  "type": "trap",
+  "name": "Maledizione dell'Invecchiamento",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Scarta 1 carta; tutti i mostri attualmente controllati dal tuo avversario perdono 500 ATK/DEF fino alla fine di questo turno."
+}

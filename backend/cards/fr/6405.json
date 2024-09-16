@@ -1,0 +1,15 @@
+{
+  "id": 6405,
+  "type": "monster",
+  "name": "Deadroot le Démon de l'Enfer",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Non Invocable Spécialement. Uniquement Invocable/Posable Normalement en Sacrifiant 3 monstres. L'ATK/DEF de tous les autres monstres sur le Terrain sont divisées par deux.",
+  "level": 10,
+  "atk": 4000,
+  "def": 4000,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

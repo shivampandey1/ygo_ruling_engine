@@ -1,0 +1,15 @@
+{
+  "id": 5774,
+  "type": "monster",
+  "name": "Fou des Ténèbres - Archdémon",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Une fois par tour, durant votre Standby Phase, vous devez payer 500 LP (ceci est obligatoire), ou cette carte est détruite. Lors de la résolution d'un effet de carte de l'adversaire qui cible un monstre \"Archdémon\" que vous contrôlez, lancez un dé à six faces et annulez l'effet si le résultat est 1, 3 ou 6, et si vous le faites, détruisez la carte.",
+  "level": 3,
+  "atk": 300,
+  "def": 1400,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

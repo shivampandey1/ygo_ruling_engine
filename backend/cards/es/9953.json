@@ -1,0 +1,10 @@
+{
+  "id": 9953,
+  "type": "trap",
+  "name": "Prisión Real",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Ningún jugador puede Invocar monstruos de Modo Especial desde el Cementerio.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

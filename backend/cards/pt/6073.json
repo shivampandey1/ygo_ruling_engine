@@ -1,0 +1,15 @@
+{
+  "id": 6073,
+  "type": "monster",
+  "name": "O Fim de Anubis",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TREVAS",
+  "effectText": "Enquanto este card estiver com a face para cima no campo, todos os cards e efeitos que escolham um ou mais cards no Cemitério como alvo, ou que ativem no Cemitério, são negados.",
+  "level": 6,
+  "atk": 2500,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

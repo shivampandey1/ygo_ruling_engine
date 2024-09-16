@@ -1,0 +1,15 @@
+{
+  "id": 5952,
+  "type": "monster",
+  "name": "Mercure, Agent de la Sagesse",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par tour, durant votre Standby Phase, si vous contrôliez cette carte face recto dans votre Zone Monstre et que vous n'aviez aucune carte dans votre main à la fin du dernier tour de l'adversaire : piochez 1 carte.",
+  "level": 4,
+  "atk": 0,
+  "def": 1700,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

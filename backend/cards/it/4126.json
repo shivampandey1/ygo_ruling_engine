@@ -1,0 +1,15 @@
+{
+  "id": 4126,
+  "type": "monster",
+  "name": "Clown del Sogno",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Se questa carta in Posizione di Attacco viene messa scoperta in Posizione di Difesa: scegli come bersaglio 1 mostro controllato dal tuo avversario; distruggi quel bersaglio.",
+  "level": 3,
+  "atk": 1200,
+  "def": 900,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9446,
+  "type": "monster",
+  "name": "Stregone dei Fiori",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "Se questa carta viene Evocata Normalmente o Specialmente: scegli come bersaglio 1 mostro nel Cimitero del tuo avversario; Evocalo Specialmente sul tuo Terreno, ma esso non può attaccare il tuo avversario direttamente, e viene distrutto durante la End Phase di questo turno. Puoi utilizzare questo effetto di \"Stregone dei Fiori\" una sola volta per turno.",
+  "level": 8,
+  "atk": 2900,
+  "def": 0,
+  "properties": [
+    "Incantatore",
+    "Effetto"
+  ]
+}

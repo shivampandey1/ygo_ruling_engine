@@ -1,0 +1,8 @@
+{
+  "id": 7388,
+  "type": "trap",
+  "name": "Pareja de Cristal",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando un monstruo \"Bestia de Cristal\" que controles es destruido en batalla y mandado al Cementerio: pon en tu Zona de Magia y Trampas 1 monstruo \"Bestia de Cristal\" en tu Deck, boca arriba como una Mágica Continua y, si lo haces, no recibes daño de batalla por el resto de este turno."
+}

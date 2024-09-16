@@ -1,0 +1,15 @@
+{
+  "id": 10443,
+  "type": "monster",
+  "name": "Capitán Instructor Hombreoso",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "No puede ser usado como material para una Invocación Xyz, excepto para la Invocación Xyz de un monstruo Guerrero de FUEGO. Puedes Invocar esta carta de Modo Normal sin Sacrificar, pero su ATK original se convierte en 1300. Una vez por turno: puedes hacer que todos los monstruos Guerrero-Bestia de Nivel 4 que controles en este momento se conviertan en Nivel 8 hasta el final de este turno.",
+  "level": 8,
+  "atk": 2600,
+  "def": 2700,
+  "properties": [
+    "Guerrero-Bestia",
+    "Efecto"
+  ]
+}

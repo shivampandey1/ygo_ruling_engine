@@ -1,0 +1,15 @@
+{
+  "id": 5775,
+  "type": "monster",
+  "name": "Archidemonio Torre Des",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "Una vez por turno, durante tu Standby Phase, debes pagar 500 LP (esto no es opcional), o esta carta es destruida. Al resolver el efecto de una carta del adversario que seleccione esta carta, lanza un dado de seis caras y niega ese efecto si sale 3 y, si lo haces, destruye esa carta. Cuando \"Archidemonio Rey del Terror\" que controlas es destruido y mandado al Cementerio (incluso durante el Damage Step) (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano, y después selecciona ese \"Archidemonio Rey del Terror\" en tu Cementerio; Invócalo de Modo Especial.",
+  "level": 3,
+  "atk": 1100,
+  "def": 1800,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

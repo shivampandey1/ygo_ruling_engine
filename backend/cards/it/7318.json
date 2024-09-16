@@ -1,0 +1,10 @@
+{
+  "id": 7318,
+  "type": "trap",
+  "name": "Specchio Imprigiona-Luce",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Annulla tutti gli effetti dei mostri LUCE attivati sul Terreno o nel Cimitero.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

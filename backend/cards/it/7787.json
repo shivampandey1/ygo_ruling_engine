@@ -1,0 +1,10 @@
+{
+  "id": 7787,
+  "type": "spell",
+  "name": "Filtro di Potere",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Nessun giocatore può Evocare Specialmente mostri con ATK 1000 o inferiore.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

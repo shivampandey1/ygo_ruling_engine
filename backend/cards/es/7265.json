@@ -1,0 +1,15 @@
+{
+  "id": 7265,
+  "type": "monster",
+  "name": "Cloudian - Niebla Fantasma",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "No puede ser Invocado de Modo Especial. Ningún jugador recibe daño de batalla de ataques que involucren esta carta. Si esta carta es destruida en batalla: distribuye Contadores de Niebla igual al Nivel del monstruo que la destruyó, entre los monstruos boca arriba.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Demonio",
+    "Efecto"
+  ]
+}

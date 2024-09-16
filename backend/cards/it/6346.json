@@ -1,0 +1,8 @@
+{
+  "id": 6346,
+  "type": "spell",
+  "name": "Dono del Martirio",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Manda 1 mostro che controlli al Cimitero, poi scegli come bersaglio 1 mostro scoperto che controlli; esso guadagna ATK pari all'ATK originale del mostro mandato fino alla fine di questo turno."
+}

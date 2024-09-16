@@ -1,0 +1,16 @@
+{
+  "id": 11572,
+  "type": "monster",
+  "name": "Cavalleria del Cielo Centaurea",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "2 mostri di Livello 2\nNon può essere distrutto in battaglia mentre ha materiali. Alla fine del Damage Step, se questa carta ha combattuto con un mostro dell'avversario: puoi staccare 1 materiale da questa carta; fai ritornare quel mostro dell'avversario nella mano.",
+  "rank": 2,
+  "atk": 2000,
+  "def": 0,
+  "properties": [
+    "Guerriero-Bestia",
+    "Xyz",
+    "Effetto"
+  ]
+}

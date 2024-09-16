@@ -1,0 +1,15 @@
+{
+  "id": 6527,
+  "type": "monster",
+  "name": "HÉROE Elemental Necroshade",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Una vez, mientras esta carta está en el Cementerio, puedes Invocar de Modo Normal 1 monstruo \"HÉROE Elemental\" de Nivel 5 o mayor sin Sacrificar.",
+  "level": 5,
+  "atk": 1600,
+  "def": 1800,
+  "properties": [
+    "Guerrero",
+    "Efecto"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7522,
+  "type": "monster",
+  "name": "Ananta el Dragón Malvado",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial desterrando todos los monstruos Reptil que controles y en tu Cementerio. El ATK/DEF de esta carta se convierten en el número de monstruos desterrados por su Invocación Especial x 600. Una vez por turno, durante tu End Phase: selecciona 1 carta en el Campo; destruye ese objetivo.",
+  "level": 8,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

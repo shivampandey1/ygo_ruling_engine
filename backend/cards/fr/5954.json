@@ -1,0 +1,15 @@
+{
+  "id": 5954,
+  "type": "monster",
+  "name": "Mars, Agent de la Force",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Non affectée ni par des Cartes Magie ni par des effets de Magie. Tant que vous contrôlez \"Le Sanctuaire Céleste\" et que vos LP sont supérieurs à ceux de votre adversaire, cette carte gagne une ATK/DEF égales à la différence.",
+  "level": 3,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

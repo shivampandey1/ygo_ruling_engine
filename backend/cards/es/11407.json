@@ -1,0 +1,8 @@
+{
+  "id": 11407,
+  "type": "trap",
+  "name": "Brutalidad Yang Zing",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Si un monstruo \"Yang Zing\" que controlas batalla con un monstruo del adversario, durante el cálculo de daño: el ATK/DEF de tu monstruo batallante se convierten en el doble de su ATK/DEF originales sólo durante ese cálculo de daño, pero destrúyelo al final del Damage Step."
+}

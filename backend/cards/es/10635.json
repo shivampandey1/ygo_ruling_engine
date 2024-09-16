@@ -1,0 +1,15 @@
+{
+  "id": 10635,
+  "type": "monster",
+  "name": "Atrapadora Atrax",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TIERRA",
+  "effectText": "No es afectada por los efectos de Trampas Normales \"Agujero\". Puedes activar Cartas de Trampa Normales \"Agujero\" en tu mano. La activación y los efectos de Trampas Normales activadas en tu Campo no pueden ser negados.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Insecto",
+    "Efecto"
+  ]
+}

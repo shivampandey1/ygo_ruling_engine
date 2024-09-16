@@ -1,0 +1,16 @@
+{
+  "id": 8095,
+  "type": "monster",
+  "name": "Il Favoloso Kushano",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Se questa carta è nel tuo Cimitero: puoi scartare 1 mostro \"Il Favoloso\" al Cimitero, eccetto \"Il Favoloso Kushano\"; aggiungi questa carta alla tua mano.",
+  "level": 3,
+  "atk": 1100,
+  "def": 800,
+  "properties": [
+    "Demone",
+    "Tuner",
+    "Effetto"
+  ]
+}

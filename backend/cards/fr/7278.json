@@ -1,0 +1,15 @@
+{
+  "id": 7278,
+  "type": "monster",
+  "name": "Nuagien - Brouillard Acide",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Non destructible au combat. Si cette carte est en Position de Défense face recto, détruisez-la. Si cette carte est Invoquée Normalement : placez 1 Compteur Brume sur elle pour chaque monstre \"Nuagien\" sur le Terrain. Vous pouvez retirer 2 Compteurs Brume de cette carte, puis ciblez 1 Magie/Piège sur le Terrain ; détruisez la cible.",
+  "level": 4,
+  "atk": 500,
+  "def": 0,
+  "properties": [
+    "Elfe",
+    "Effet"
+  ]
+}

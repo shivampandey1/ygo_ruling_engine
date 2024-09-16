@@ -1,0 +1,15 @@
+{
+  "id": 6610,
+  "type": "monster",
+  "name": "Phalène des Sables",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte en Position de Défense face verso est détruite et envoyée au Cimetière : Invoquez-la Spécialement et échangez son ATK/DEF d'origine.",
+  "level": 4,
+  "atk": 1000,
+  "def": 2000,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

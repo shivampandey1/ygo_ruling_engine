@@ -1,0 +1,15 @@
+{
+  "id": 10635,
+  "type": "monster",
+  "name": "Trappolatrice Atrax",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "Immune agli effetti delle Trappole Normali \"Buco\". Puoi attivare le Carte Trappola Normali \"Buco\" dalla tua mano. L'attivazione e gli effetti delle Trappole Normali attivate sul tuo Terreno non possono essere annullati.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1000,
+  "properties": [
+    "Insetto",
+    "Effetto"
+  ]
+}

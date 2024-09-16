@@ -1,0 +1,8 @@
+{
+  "id": 4834,
+  "type": "trap",
+  "name": "Escudo Mágico de Brazo",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando un monstruo del adversario declara un ataque mientras controla 2 o más monstruos boca arriba y tú controlas un monstruo: selecciona 1 monstruo boca arriba que controle tu adversario, excepto el monstruo atacante; toma el control de ese monstruo boca arriba (hasta el final de la Battle Phase) y, si lo haces, cambia el objetivo del ataque a ese y haz el cálculo de daño."
+}

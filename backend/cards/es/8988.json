@@ -1,0 +1,8 @@
+{
+  "id": 8988,
+  "type": "spell",
+  "name": "Fusión de Sincronía Milagrosa",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión que liste un Monstruo de Sincronía como material, desterrando Materiales de Fusión en tu Campo o Cementerio listados en él. Si esta carta Colocada es destruida por el efecto de una carta de tu adversario y mandada a tu Cementerio: roba 1 carta."
+}

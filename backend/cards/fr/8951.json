@@ -1,0 +1,16 @@
+{
+  "id": 8951,
+  "type": "monster",
+  "name": "Gobelin de Ferraille",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Non destructible au combat. À la fin de la Battle Phase, si cette carte en Position de Défense face recto est ciblée par une attaque : détruisez cette carte. Si cette carte est détruite par l'effet d'une carte \"Ferraille\" et envoyée au Cimetière : vous pouvez cibler 1 monstre \"Ferraille\" (\"Gobelin de Ferraille\" exclu) dans votre Cimetière ; ajoutez la cible à votre main.",
+  "level": 3,
+  "atk": 0,
+  "def": 500,
+  "properties": [
+    "Bête-Guerrier",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

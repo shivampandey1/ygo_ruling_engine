@@ -1,0 +1,8 @@
+{
+  "id": 5131,
+  "type": "spell",
+  "name": "Imitazione di Insetto",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Offri come Tributo 1 mostro; Evoca Specialmente dal tuo Deck 1 mostro Insetto il cui Livello è più alto di 1 di quello che il mostro offerto come Tributo aveva sul Terreno."
+}

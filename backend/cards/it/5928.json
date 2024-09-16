@@ -1,0 +1,15 @@
+{
+  "id": 5928,
+  "type": "monster",
+  "name": "Bitelon",
+  "englishAttribute": "water",
+  "localizedAttribute": "ACQUA",
+  "effectText": "Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.",
+  "level": 6,
+  "atk": 2400,
+  "def": 1000,
+  "properties": [
+    "Rettile",
+    "Effetto"
+  ]
+}

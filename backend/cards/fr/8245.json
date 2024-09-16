@@ -1,0 +1,16 @@
+{
+  "id": 8245,
+  "type": "monster",
+  "name": "Tulipe Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Chaque fois que votre adversaire active une Carte Magie/Piège, tous les monstres \"Naturia\" que vous contrôlez vont gagner 500 ATK le reste de ce tour.",
+  "level": 2,
+  "atk": 600,
+  "def": 1500,
+  "properties": [
+    "Plante",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7708,
+  "type": "monster",
+  "name": "Diapason Oscuro",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURITÀ",
+  "effectText": "La prima volta che questa carta sta per essere distrutta in battaglia ogni turno, essa non viene distrutta.",
+  "level": 3,
+  "atk": 1300,
+  "def": 300,
+  "properties": [
+    "Demone",
+    "Tuner",
+    "Effetto"
+  ]
+}

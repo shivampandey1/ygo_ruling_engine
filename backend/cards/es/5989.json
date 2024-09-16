@@ -1,0 +1,10 @@
+{
+  "id": 5989,
+  "type": "trap",
+  "name": "Talismán de Sellar Hechizos",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Activa esta carta sólo si controlas \"Amo de los Sellos Meisei\". Las Cartas Mágicas, y sus efectos en el Campo, no pueden ser activadas. Niega todos los efectos de Mágicas en el Campo. Si no controlas \"Amo de los Sellos Meisei\", destruye esta carta.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7265,
+  "type": "monster",
+  "name": "Nuagien - Brume de Fantôme",
+  "englishAttribute": "water",
+  "localizedAttribute": "EAU",
+  "effectText": "Non Invocable Spécialement. Aucun joueur ne reçoit de dommages de combat d'attaques impliquant cette carte. Si cette carte est détruite au combat : distribuez un nombre de Compteurs Brume égal au Niveau du monstre qui l'a détruite parmi les monstres face recto.",
+  "level": 1,
+  "atk": 0,
+  "def": 0,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

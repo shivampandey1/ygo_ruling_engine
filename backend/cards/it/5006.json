@@ -1,0 +1,10 @@
+{
+  "id": 5006,
+  "type": "trap",
+  "name": "Coro Acquatico",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Se ci sono mostri con lo stesso nome sul Terreno, quei mostri guadagnano 500 ATK/DEF.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

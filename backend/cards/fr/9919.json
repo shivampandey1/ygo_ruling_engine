@@ -1,0 +1,16 @@
+{
+  "id": 9919,
+  "type": "monster",
+  "name": "Évolzar Solda",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FEU",
+  "effectText": "2 monstres Dinosaure de Niveau 6\nNon destructible par des effets de carte tant qu'elle a du Matériel. Lorsque votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel de cette carte ; détruisez ces monstres.",
+  "rank": 6,
+  "atk": 2600,
+  "def": 1000,
+  "properties": [
+    "Dragon",
+    "Xyz",
+    "Effet"
+  ]
+}

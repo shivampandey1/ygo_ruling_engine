@@ -1,0 +1,15 @@
+{
+  "id": 5141,
+  "type": "monster",
+  "name": "Bébé Vampire",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "À la fin de la Battle Phase, si cette carte a détruit un monstre au combat et l'a envoyé au Cimetière ce tour : vous pouvez Invoquer Spécialement le monstre sur votre Terrain.",
+  "level": 3,
+  "atk": 700,
+  "def": 1000,
+  "properties": [
+    "Zombie",
+    "Effet"
+  ]
+}

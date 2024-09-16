@@ -1,0 +1,10 @@
+{
+  "id": 6216,
+  "type": "spell",
+  "name": "Dispersione di Malignità",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Scarta 1 carta; distruggi tutte le Trappole Continue scoperte sul Terreno.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Rapida"
+}

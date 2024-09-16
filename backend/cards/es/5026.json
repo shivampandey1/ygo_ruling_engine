@@ -1,0 +1,15 @@
+{
+  "id": 5026,
+  "type": "monster",
+  "name": "Dama de Aqua",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Mientras no haya una Mágica de Campo boca arriba, el Campo se trata como \"Umi\".",
+  "level": 4,
+  "atk": 700,
+  "def": 2000,
+  "properties": [
+    "Aqua",
+    "Efecto"
+  ]
+}

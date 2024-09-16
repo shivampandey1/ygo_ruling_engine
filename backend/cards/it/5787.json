@@ -1,0 +1,8 @@
+{
+  "id": 5787,
+  "type": "spell",
+  "name": "Scacco Matto",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Offri come Tributo 1 mostro \"Arcidemone\", poi scegli come bersaglio 1 \"Arcidemone Re del Terrore\" che controlli; esso può attaccare direttamente in questo turno."
+}

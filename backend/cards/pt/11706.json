@@ -1,0 +1,15 @@
+{
+  "id": 11706,
+  "type": "monster",
+  "name": "Infernoide Sjette",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FOGO",
+  "effectText": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou do Cemitério) ao banir 2 monstros \"Infernoide\" da sua mão ou do Cemitério enquanto a soma dos Níveis e Classes de todos os Monstros de Efeito que você controla for 8 ou menos. Quando este card declarar um ataque: você pode banir 1 monstro do Deck Adicional do seu oponente (ele seleciona). Uma vez por turno (Efeito Rápido): você pode oferecer 1 monstro como Tributo e, depois, escolha 1 card no Cemitério do seu oponente; bana-o.",
+  "level": 6,
+  "atk": 2400,
+  "def": 0,
+  "properties": [
+    "Demônio",
+    "Efeito"
+  ]
+}

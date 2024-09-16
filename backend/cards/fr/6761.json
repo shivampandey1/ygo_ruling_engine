@@ -1,0 +1,8 @@
+{
+  "id": 6761,
+  "type": "trap",
+  "name": "Chaîne de la Destinée",
+  "englishAttribute": "trap",
+  "localizedAttribute": "PIÈGE",
+  "effectText": "Ciblez 1 monstre \"HÉROS de la Destinée\" que vous contrôlez ; équipez cette carte à la cible. Il gagne 500 ATK. S'il détruit un monstre de l'adversaire au combat et l'envoie au Cimetière : infligez 500 points de dommages à votre adversaire."
+}

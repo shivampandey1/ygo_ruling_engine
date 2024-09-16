@@ -1,0 +1,15 @@
+{
+  "id": 8094,
+  "type": "monster",
+  "name": "Il Favoloso Gallabas",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "Puoi scartare 1 carta al Cimitero, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario con DEF pari o inferiore all'ATK di questa carta; distruggi quel bersaglio.",
+  "level": 4,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Demone",
+    "Effetto"
+  ]
+}

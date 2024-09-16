@@ -1,0 +1,15 @@
+{
+  "id": 8858,
+  "type": "monster",
+  "name": "Koala Vampirique",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte inflige des dommages de combat à votre adversaire au combat avec un monstre : gagnez des LP égaux aux dommages de combat infligés.",
+  "level": 4,
+  "atk": 1800,
+  "def": 1500,
+  "properties": [
+    "Bête",
+    "Effet"
+  ]
+}

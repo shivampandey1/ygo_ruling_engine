@@ -1,0 +1,16 @@
+{
+  "id": 7532,
+  "type": "monster",
+  "name": "Guerrier de la Vallée de Brume",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire qui n'a pas été détruit : renvoyez le monstre de l'adversaire à la main. Vous devez contrôler cette carte face recto pour activer et résoudre cet effet.",
+  "level": 4,
+  "atk": 1700,
+  "def": 300,
+  "properties": [
+    "Bête Ailée",
+    "Syntoniseur",
+    "Effet"
+  ]
+}

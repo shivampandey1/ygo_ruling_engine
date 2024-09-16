@@ -1,0 +1,16 @@
+{
+  "id": 8415,
+  "type": "monster",
+  "name": "Fabuloso Ragin",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUZ",
+  "effectText": "1 Cantante \"Fabuloso/a\" + 1+ monstruos que no sean Cantantes\nCuando esta carta es Invocada por Sincronía: puedes robar hasta que tengas 2 cartas en tu mano.",
+  "level": 5,
+  "atk": 2300,
+  "def": 1800,
+  "properties": [
+    "Demonio",
+    "Sincronía",
+    "Efecto"
+  ]
+}

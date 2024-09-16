@@ -1,0 +1,15 @@
+{
+  "id": 7949,
+  "type": "monster",
+  "name": "Gaïa Genex",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Si cette carte sur le Terrain va être détruite au combat ou par un effet de carte, vous pouvez détruire 1 \"Contrôleur Genex\" que vous contrôlez à la place.",
+  "level": 3,
+  "atk": 1000,
+  "def": 1900,
+  "properties": [
+    "Rocher",
+    "Effet"
+  ]
+}

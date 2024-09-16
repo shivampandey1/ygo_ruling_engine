@@ -1,0 +1,16 @@
+{
+  "id": 8731,
+  "type": "monster",
+  "name": "Chevalier Dragunité - Barcha",
+  "englishAttribute": "wind",
+  "localizedAttribute": "VENT",
+  "effectText": "1 Syntoniseur Dragon + 1+ monstre non-Syntoniseur Bête Ailée\nLorsque cette carte est Invoquée par Synchronisation : vous pouvez cibler un nombre de votre choix de monstres \"Dragunité\" Dragon dans votre Cimetière ; équipez ces monstres Dragon à cette carte. Cette carte gagne 300 ATK pour chaque carte \"Dragunité\" qui lui est équipée.",
+  "level": 8,
+  "atk": 2000,
+  "def": 1200,
+  "properties": [
+    "Dragon",
+    "Synchro",
+    "Effet"
+  ]
+}

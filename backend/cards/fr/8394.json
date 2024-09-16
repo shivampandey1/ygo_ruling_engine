@@ -1,0 +1,15 @@
+{
+  "id": 8394,
+  "type": "monster",
+  "name": "Ashenveil Mythologique",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUMIÈRE",
+  "effectText": "Une fois par combat, si cette carte combat, durant le calcul des dommages (Effet Rapide) : vous pouvez envoyer 1 carte depuis votre main au Cimetière ; durant ce calcul des dommages uniquement, cette carte gagne 600 ATK.",
+  "level": 4,
+  "atk": 1600,
+  "def": 1200,
+  "properties": [
+    "Démon",
+    "Effet"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 7555,
+  "type": "spell",
+  "name": "Aplastamiento Frenético",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Destierra 1 monstruo en tu Cementerio, y después selecciona 1 \"Kuriboh Alado\" que controles; hasta el final de este turno, el ATK/DEF de ese objetivo se convierten en el ATK/DEF del monstruo que fue desterrado.",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Juego Rápido"
+}

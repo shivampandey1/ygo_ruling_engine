@@ -1,0 +1,10 @@
+{
+  "id": 9953,
+  "type": "trap",
+  "name": "Prigione Reale",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAPPOLA",
+  "effectText": "Nessun giocatore può Evocare Specialmente mostri dal Cimitero.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

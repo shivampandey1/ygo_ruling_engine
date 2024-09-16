@@ -1,0 +1,10 @@
+{
+  "id": 6138,
+  "type": "spell",
+  "name": "Arma de Fusión",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MÁGICA",
+  "effectText": "Sólo puedes equipar esta carta a un Monstruo de Fusión de Nivel 6 o menor. Éste gana 1500 ATK/DEF.",
+  "englishProperty": "equip",
+  "localizedProperty": "Equipo"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8960,
+  "type": "monster",
+  "name": "Pousse de Bambou Naturia",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRE",
+  "effectText": "Tant que vous contrôlez cette carte face recto qui a été Invoquée par Sacrifice en Sacrifiant un monstre \"Naturia\", votre adversaire ne peut pas activer de Cartes Magie/Piège.",
+  "level": 5,
+  "atk": 2000,
+  "def": 2000,
+  "properties": [
+    "Plante",
+    "Effet"
+  ]
+}

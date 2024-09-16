@@ -1,0 +1,8 @@
+{
+  "id": 5532,
+  "type": "spell",
+  "name": "Differente Capsula Dimensionale",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Bandisci 1 carta dal tuo Deck coperta. Dopo l'attivazione di questa carta, essa rimane sul Terreno. Distruggi questa carta durante la tua 2ª Standby Phase dopo l'attivazione di questa carta e, se lo fai, aggiungi alla mano la carta bandita."
+}

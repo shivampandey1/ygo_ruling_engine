@@ -1,0 +1,10 @@
+{
+  "id": 7270,
+  "type": "spell",
+  "name": "Evoca Nuvola",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Una volta per turno, durante la tua Main Phase: puoi Evocare Specialmente 1 mostro \"Nubiano\" di Livello 4 o inferiore dalla tua mano o qualsiasi Cimitero. Non devi controllare nessun mostro per attivare e risolvere questo effetto. Se Evochi Specialmente un mostro dal Cimitero con questo effetto, distruggi questa carta.",
+  "englishProperty": "continuous",
+  "localizedProperty": "Continua"
+}

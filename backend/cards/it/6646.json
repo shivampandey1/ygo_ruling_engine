@@ -1,0 +1,15 @@
+{
+  "id": 6646,
+  "type": "monster",
+  "name": "Helios - Il Sole Primordiale",
+  "englishAttribute": "light",
+  "localizedAttribute": "LUCE",
+  "effectText": "L'ATK/DEF di questa carta diventano il numero di mostri banditi x 100.",
+  "level": 4,
+  "atk": -1,
+  "def": -1,
+  "properties": [
+    "Pyro",
+    "Effetto"
+  ]
+}

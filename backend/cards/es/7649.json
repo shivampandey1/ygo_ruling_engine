@@ -1,0 +1,8 @@
+{
+  "id": 7649,
+  "type": "trap",
+  "name": "Cloudian Enfurecido",
+  "englishAttribute": "trap",
+  "localizedAttribute": "TRAMPA",
+  "effectText": "Cuando uno o más monstruos \"Cloudian\" que controlas son destruidos por su propio efecto y mandados a tu Cementerio: selecciona 1 de esos monstruos; Invócalo de Modo Especial en Posición de Ataque y, si lo haces, ponle 1 Contador de Niebla, y además no puede ser cambiado a Posición de Defensa por efectos de cartas."
+}

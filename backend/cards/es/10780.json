@@ -1,0 +1,16 @@
+{
+  "id": 10780,
+  "type": "monster",
+  "name": "Boxeador Indómito Comisionado Tramposo",
+  "englishAttribute": "fire",
+  "localizedAttribute": "FUEGO",
+  "effectText": "2 monstruos de Nivel 3\nTodos los monstruos que controle tu adversario deben atacar si pueden hacerlo. Mientras controles otro monstruo \"Boxeador Indómito\", los monstruos de tu adversario no pueden seleccionar esta carta para ataques. Cuando es declarado un ataque que involucre a otro monstruo \"Boxeador Indómito\" que controles: puedes desacoplar 2 materiales de esta carta; mira la mano de tu adversario, y después Coloca 1 Mágica en su mano en tu Campo.",
+  "rank": 3,
+  "atk": 0,
+  "def": 1300,
+  "properties": [
+    "Guerrero",
+    "Xyz",
+    "Efecto"
+  ]
+}

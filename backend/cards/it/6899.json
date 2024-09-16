@@ -1,0 +1,8 @@
+{
+  "id": 6899,
+  "type": "spell",
+  "name": "Lampo della Magia Proibita",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Se il tuo avversario controlla mostri in tutte le sue Zone Mostri Main: distruggi tutti i mostri controllati dal tuo avversario."
+}

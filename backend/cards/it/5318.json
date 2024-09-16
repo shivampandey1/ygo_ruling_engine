@@ -1,0 +1,15 @@
+{
+  "id": 5318,
+  "type": "monster",
+  "name": "Capitano Saccheggiatore",
+  "englishAttribute": "earth",
+  "localizedAttribute": "TERRA",
+  "effectText": "I mostri controllati dal tuo avversario non possono scegliere come bersaglio i mostri Guerriero per gli attacchi, eccetto questo. Quando questa carta viene Evocata Normalmente: puoi Evocare Specialmente 1 mostro di Livello 4 o inferiore dalla tua mano.",
+  "level": 3,
+  "atk": 1200,
+  "def": 400,
+  "properties": [
+    "Guerriero",
+    "Effetto"
+  ]
+}

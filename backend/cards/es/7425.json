@@ -1,0 +1,15 @@
+{
+  "id": 7425,
+  "type": "monster",
+  "name": "Dragón de Obsidiana",
+  "englishAttribute": "dark",
+  "localizedAttribute": "OSCURIDAD",
+  "effectText": "Niega cualquier efecto de Mágicas/Trampas que seleccione exactamente 1 monstruo de OSCURIDAD que controles (y ninguna otra carta) y, si lo haces, destrúyelas.",
+  "level": 4,
+  "atk": 800,
+  "def": 2100,
+  "properties": [
+    "Roca",
+    "Efecto"
+  ]
+}

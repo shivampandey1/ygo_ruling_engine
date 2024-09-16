@@ -1,0 +1,10 @@
+{
+  "id": 6515,
+  "type": "spell",
+  "name": "Cancello del Mondo Oscuro",
+  "englishAttribute": "spell",
+  "localizedAttribute": "MAGIA",
+  "effectText": "Scegli come bersaglio 1 mostro \"Mondo Oscuro\" nel tuo Cimitero; Evoca Specialmente quel bersaglio. Non puoi Evocare mostri nel turno in cui attivi questa carta, eccetto che con questo effetto (ma puoi Posizionare Normalmente).",
+  "englishProperty": "quickplay",
+  "localizedProperty": "Rapida"
+}

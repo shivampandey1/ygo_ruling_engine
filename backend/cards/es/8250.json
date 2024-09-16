@@ -1,0 +1,15 @@
+{
+  "id": 8250,
+  "type": "monster",
+  "name": "Tropas de Choque de la Barrera de Hielo",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Puedes Sacrificar esta carta, y después seleccionar 1 monstruo de AGUA en el Campo; destrúyelo y, si lo haces, añade a tu mano 1 monstruo \"Barrera de Hielo\" en tu Deck.",
+  "level": 3,
+  "atk": 1500,
+  "def": 800,
+  "properties": [
+    "Lanzador de Conjuros",
+    "Efecto"
+  ]
+}

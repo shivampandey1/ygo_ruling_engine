@@ -1,0 +1,15 @@
+{
+  "id": 8698,
+  "type": "monster",
+  "name": "Caimán León",
+  "englishAttribute": "water",
+  "localizedAttribute": "AGUA",
+  "effectText": "Mientras controlas otro monstruo Reptil, si un monstruo Reptil que controlas ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración.",
+  "level": 4,
+  "atk": 1900,
+  "def": 200,
+  "properties": [
+    "Reptil",
+    "Efecto"
+  ]
+}

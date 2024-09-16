@@ -1,0 +1,16 @@
+{
+  "id": 8008,
+  "type": "monster",
+  "name": "Mangeur de Piège",
+  "englishAttribute": "dark",
+  "localizedAttribute": "TÉNÈBRES",
+  "effectText": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en envoyant 1 Piège face recto contrôlé par votre adversaire au Cimetière.",
+  "level": 4,
+  "atk": 1900,
+  "def": 1600,
+  "properties": [
+    "Démon",
+    "Syntoniseur",
+    "Effet"
+  ]
+}
