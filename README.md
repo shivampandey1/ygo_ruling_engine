@@ -232,3 +232,4 @@ graph TD
     Agent -->|Uses| CardMechanics[card_mechanics.py]
     Search -->|Queries| DB[(SQLite Database)]
     VLMSearch -->|Searches| Rulebook[Rulebook Data
+```
